@@ -25,7 +25,8 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects:
+    projects: 
+    #qrite up here
     # - repo-name
 
 # social_media:
