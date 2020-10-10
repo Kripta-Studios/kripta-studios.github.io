@@ -47,12 +47,26 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Python
+    web_url: https://github.com/topics/python3
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
-  - name: Web design
+  - name: C++
+    web_url: https://github.com/topics/cpp
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/cpp/cpp.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: C
+    web_url: https://github.com/topics/c
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/c/c.png
+  
+  - name: SFML
+    web_url: https://github.com/topics/sfml
+    image_url: https://www.sfml-dev.org/download/goodies/sfml-icon-big.png
+
+  - name: WSL2
+    web_url: https://github.com/topics/wsl
+    image_url: https://repository-images.githubusercontent.com/100060912/dc77b180-764a-11e9-9e12-aace7d0ecd7d
+   
+  - name: GNU Project
+    web_url: https://github.com/topics/gnu
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/1200px-Heckert_GNU_white.svg.png
