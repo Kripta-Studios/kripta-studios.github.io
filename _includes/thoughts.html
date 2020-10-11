@@ -1,4 +1,4 @@
-<h1 {% if site.style == 'dark' %}class="text-white"{% endif %}>NEWS</h1>
+<h1 {% if site.style == 'dark' %}class="text-white"{% endif %}><br>NEWS</h1>
 <p class="f3 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">The next are in what we are working.</p>
 <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
   {% for post in site.posts limit: 6 %}
