@@ -50,24 +50,24 @@ projects:
 topics:
   - name: Python
     web_url: https://github.com/topics/python3
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
+    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/python.png
 
   - name: C++
     web_url: https://github.com/topics/cpp
-    image_url: https://images.vexels.com/media/users/3/166253/isolated/preview/14bc03b7b1c2c4e2656fd4c0a981cbbc-icono-de-lenguaje-de-programaci--n-cpp-by-vexels.png
+    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/cpp.png
 
   - name: C
     web_url: https://github.com/topics/c
-    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/5a36954d40bea2.0735336615135266052652.png
+    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/c.png
   
   - name: SFML
     web_url: https://github.com/topics/sfml
-    image_url: https://www.sfml-dev.org/download/goodies/sfml-icon-big.png
+    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/sfml-icon-big.png
 
   - name: WSL2
     web_url: https://github.com/topics/wsl
-    image_url: https://technoverse.web.id/wp-content/uploads/2018/12/WSL-Hero.jpg
+    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/wsl2.png
    
   - name: GNU Project
     web_url: https://github.com/topics/gnu
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/1200px-Heckert_GNU_white.svg.png
+    image_url: https://raw.githubusercontent.com/Kripta-Studios/kripta-studios.github.io/master/assets/GNU_white.svg.png
