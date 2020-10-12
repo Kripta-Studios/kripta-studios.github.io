@@ -22,7 +22,6 @@ function changeClass() {
   {% else %}
     {% assign sort_order = 'pushed_at' %}
   {% endif %}
-  <script> changeClass() </script>
   {% if site.projects.exclude.archived && site.projects.exclude.forks %}
     {% assign filtered_repos = site.github.public_repositories | where:'archived', false | where:'fork', false | sort: sort_order | reverse %}
   {% elsif site.projects.exclude.archived %}
@@ -32,7 +31,6 @@ function changeClass() {
   {% else %}
     {% assign filtered_repos = site.github.public_repositories | sort: sort_order | reverse %}
   {% endif %}
-  <script> changeClass() </script>
   {% for repository in filtered_repos | limit: site.projects.limit %}
     {% unless site.projects.exclude.projects contains repository.name %}
       <script> changeClass() </script>
