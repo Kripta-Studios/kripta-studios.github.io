@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Kripta-Studios!"
-published: false
+published: true
 ---
 Kripta-Studios is a little company that create tools for GNU project and Debian based OS.  
 **Hello world**, this is my first Jekyll blog post.
