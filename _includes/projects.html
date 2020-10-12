@@ -35,8 +35,9 @@ function changeClass() {
     {% unless site.projects.exclude.projects contains repository.name %}
       <div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-3">
         {% include repo-card.html %}
-        <script>  changeClass() </script>
+        <script> changeClass() </script>
       </div> 
     {% endunless %}
+    <script>  changeClass() </script>
   {% endfor %}
 </div>
