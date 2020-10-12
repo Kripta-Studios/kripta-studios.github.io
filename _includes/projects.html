@@ -9,11 +9,15 @@ function changeClass() {
   let isMobile = window.mobileCheck();
   var index = navigator.appVersion.indexOf("Mobile");
   alert(index);
+  
+  for (let i = 0; i < 9; i++){
   if(isMobile == true && index > 0){
     alert("mobile is executing");
    document.getElementById("IfMobileDevice").className = "github-component d-flex flex-column flex-justify-between windtext-left {% if site.style == 'dark' %}box-shadow{% else %}border border-gray-light{% endif %} bg-white rounded-1 p-3";  
   }
   else{alert("pc is executing")}
+  }
+  
 } 
 </script>  
 <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
