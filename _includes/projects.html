@@ -7,6 +7,8 @@ function changeClass() {
     return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
   };
   let isMobile = window.mobileCheck();
+  var index = navigator.appVersion.indexOf("Mobile");
+  alert(index);
   if(isMobile){
     alert("mobile is executing");
    document.getElementById("IfMobileDevice").className = "github-component d-flex flex-column flex-justify-between windtext-left {% if site.style == 'dark' %}box-shadow{% else %}border border-gray-light{% endif %} bg-white rounded-1 p-3";  
