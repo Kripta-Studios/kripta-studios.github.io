@@ -1,7 +1,7 @@
 <h1 style="font-family: 'Ubuntu', sans-serif;" {% if site.style == 'dark' %}class="text-white"{% endif %}>My Projects</h1>
 <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">GitHub repositories that I've built.</p>
 <script type = "text/javascript">
-alert("start!") 
+alert("start!");
 function changeClass() { 
   mobilecheck = function() {
     let check = false;
@@ -9,9 +9,9 @@ function changeClass() {
     return check;
   }; 
   let output = mobilecheck();
-  alert(output);
   if (output === true)
   {
+    alert("mobile is executing");
    document.getElementById('nameForClassThatChangeIfMobileDevice').className = "github-component d-flex flex-column flex-justify-between windtext-left {% if site.style == 'dark' %}box-shadow{% else %}border border-gray-light{% endif %} bg-white rounded-1 p-3";  
   }
   else{}
