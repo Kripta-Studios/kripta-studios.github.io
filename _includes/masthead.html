@@ -25,42 +25,10 @@
 }
 </style>
 
-<button onclick="myFunction()" type = "image"; style="src="{{ user.avatar_url }}"; height: 100%; width: 100%; object-fit: contain"><img style="display: block;margin-left: auto;margin-right: auto;width: 70%; " src="{{ user.avatar_url }}" class="circle mb-3" style="max-width: 300px;"></button>
-
-<script>
-function myFunction() {
-  if (confirm("Select OK to download the image")) {
-    function downloadFile(data = "image", fileName = "assets/KStudios.png", type="image") {
-      // Create an invisible A element
-      const a = document.createElement("a");
-      a.style.display = "none";
-      document.body.appendChild(a);
-
-      // Set the HREF to a Blob representation of the data to be downloaded
-      a.href = window.URL.createObjectURL(
-        new Blob([data], { type })
-      );
-
-      // Use download attribute to set set desired file name
-      a.setAttribute("download", fileName);
-
-      // Trigger the download by simulating click
-      a.click();
-
-      // Cleanup
-      window.URL.revokeObjectURL(a.href);
-      document.body.removeChild(a);
-    }
-    downloadFile()
-  } else {
-    var we = false;
-  }
-}
-</script>
-<!--
 <a href="assets/KStudios.png" download>
       <img style="display: block;margin-left: auto;margin-right: auto;width: 70%; " src="{{ user.avatar_url }}" class="circle mb-3" style="max-width: 300px;">
 </a>
+<!--
 <img style="display: block;margin-left: auto;margin-right: auto;width: 70%; " src="{{ user.avatar_url }}" class="circle mb-3" style="max-width: 300px;"> 
 -->
 <h1 style="text-align:center; font-family: 'Ubuntu', sans-serif;" class="{% if site.style == 'dark' %}text-white{% endif %} mb-2 lh-condensed">{% if user.name %}{{ user.name }}{% else %}{{ user.login }}{% endif %}</h1>
