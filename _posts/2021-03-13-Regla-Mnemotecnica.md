@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Kripta-Studios!"
+title: "Regla Mnemotécnica"
 published: true
 ---
 
