@@ -9,7 +9,7 @@ debajo de 2 antes del Zn, es decir debajo del Ni
 
 Valencia 3: (3,-3)**B**uah (3)**Al**ex
 
-Valencia (2,4): (-4,2,4)**C**omo (4)**Si** a (2,4)**Ge**nte (2,4)**Sn**riera (2,4)**Pb**o              (Sn -> estaño, Pb->plomo)
+Valencia (2,4): (-4,2,4)**C**omo (4)**Si** la (2,4)**Ge**nte (2,4)**Sn**riera (2,4)**Pb**o              (Sn -> estaño, Pb->plomo)
 
 Valencia (3,5): (-3,1,2,3,4,5)**N**inguna (-3,3,5)**P**rofesora (-3,3,5)**As**turiana (-3,3,5)**Sb**revive en (3,5)**Bi**lbao                  (Sb -> antimonio, Bi -> Bismuto)
 
