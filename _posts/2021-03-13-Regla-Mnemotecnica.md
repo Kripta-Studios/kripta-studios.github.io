@@ -1,6 +1,6 @@
 ---
 title: "Regla Mnemotécnica"
-published: true
+published: false
 ---
 
 Valencia 1- **H**oye **Li** **Na** **K**a **Rb**en se **Cs**a con **Fr**ak
