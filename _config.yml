@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 100
   # - CHANGE THE NUMBER TO MORE REPOSITORIES 
   exclude:
     archived: false
