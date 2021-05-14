@@ -1,3 +1,7 @@
+---
+title: "Regla Mnemotecnica"
+published: false
+---
 Valencia 1- **H**oye **Li** **Na** **K**a **Rb**en se **Cs**a con **Fr**ank
 
 Valencia 2- **Be**a es **Mg**nifica y el **Sr** de la **Ba** **Ra**   (Sr = señor = estroncio)
