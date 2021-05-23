@@ -1,21 +1,21 @@
 -|-
-libName: SFML
-os: linux
-version: 2.5.1
-zipURL: 
-includePath: 
-binsPath:
-gccFlags:
-otherInfo:
+libName: SFML;
+os: linux;
+version: 2.5.1;
+zipURL: ;
+includePath: ;
+binsPath: ; 
+gccFlags: ; 
+otherInfo: ;
 -/-
 
 -|-
-libName: curl
-os: linux
-version: 4
-zipURL: 
-includePath: 
-binsPath:
-gccFlags:
-otherInfo:
+libName: curl ;
+os: linux;
+version: 4;
+zipURL: ;
+includePath:; 
+binsPath:;
+gccFlags:;
+otherInfo:;
 -/-
