@@ -8,3 +8,14 @@ binsPath:
 gccFlags:
 otherInfo:
 -/-
+
+-|-
+libName: curl
+os: linux
+version: 4
+zipURL: 
+includePath: 
+binsPath:
+gccFlags:
+otherInfo:
+-/-
