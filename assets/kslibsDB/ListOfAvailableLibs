@@ -1,0 +1,10 @@
+-|-
+libName: SFML
+os: linux
+version: 2.5.1
+zipURL: 
+includePath: 
+binsPath:
+gccFlags:
+otherInfo:
+-/-
