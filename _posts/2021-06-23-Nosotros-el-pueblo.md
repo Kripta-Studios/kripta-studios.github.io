@@ -1,5 +1,5 @@
 ---
-title: "Regla Mnemotecnica"
+title: "Nosotros el Pueblo"
 published: false
 ---
 # **NOSOTROS EL PUEBLO**
