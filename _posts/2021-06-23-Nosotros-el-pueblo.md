@@ -1,3 +1,7 @@
+---
+title: "Regla Mnemotecnica"
+published: false
+---
 # **NOSOTROS EL PUEBLO**
 
 ### **Prefacio:**
