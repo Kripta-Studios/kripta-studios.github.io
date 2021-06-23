@@ -1,6 +1,6 @@
 ---
 title: "Nosotros el Pueblo"
-published: false
+published: true
 ---
 # **NOSOTROS EL PUEBLO**
 
