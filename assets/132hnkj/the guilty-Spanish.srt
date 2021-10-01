@@ -1,0 +1,3627 @@
+﻿1
+00:01:05,221 --> 00:01:08,296
+Central de emergencias.
+
+2
+00:01:10,630 --> 00:01:13,513
+Central de emergencias.
+
+3
+00:01:13,514 --> 00:01:16,469
+<i>Socorro.</i>
+
+4
+00:01:19,123 --> 00:01:22,518
+¿Cuál es tu dirección?
+
+5
+00:01:22,969 --> 00:01:27,045
+<i>- Socorro.</i>
+- Necesito tu dirección.
+
+6
+00:01:28,137 --> 00:01:31,492
+¿Hablo con Nikolaj Jensen?
+
+7
+00:01:31,943 --> 00:01:35,379
+- ¿Nikolaj?
+<i>- Sí.</i>
+
+8
+00:01:35,830 --> 00:01:39,786
+¿Estás en la dirección de tu casa?
+¿Mågevej 26?
+
+9
+00:01:40,758 --> 00:01:45,684
+- Nikolaj, ¿estás en Mågevej 26?
+<i>- No, no.</i>
+
+10
+00:01:45,685 --> 00:01:48,128
+¿Dónde estás?
+
+11
+00:01:48,129 --> 00:01:52,054
+<i>Es oscuro... No puedo respirar.</i>
+
+12
+00:01:52,055 --> 00:01:57,374
+- Sólo dime dónde estás.
+<i>- Mierda...</i>
+
+13
+00:01:58,185 --> 00:02:02,422
+- Veo que estás en Næstved.
+<i>- ¡Mierda!</i>
+
+14
+00:02:03,594 --> 00:02:07,590
+<i>- No, no, no.</i>
+- ¿Qué has tomado?
+
+15
+00:02:09,483 --> 00:02:12,407
+- ¿Qué has tomado, Nikolaj?
+<i>- ¿Qué?</i>
+
+16
+00:02:12,408 --> 00:02:17,455
+- ¿Te has drogado?
+<i>- Sí, sí...</i>
+
+17
+00:02:17,456 --> 00:02:21,702
+No deberías hacer eso.
+¿Qué has tomado?
+
+18
+00:02:21,703 --> 00:02:25,859
+<i>- Speed.</i>
+- ¿Te lo has disparado o lo has olfateado?
+
+19
+00:02:27,031 --> 00:02:33,150
+- Intenta respirar profundamente...
+<i>- ¡No puedo respirar!</i>
+
+20
+00:02:34,884 --> 00:02:40,803
+<i>- Estoy muy asustado.</i>
+- Es tu culpa, ¿verdad?
+
+21
+00:02:41,414 --> 00:02:46,221
+- Nikolaj.
+<i>- Sólo manda una maldita ambulancia.</i>
+
+22
+00:02:46,222 --> 00:02:50,618
+Cuando me des una dirección,
+envío una ambulancia y la policía.
+
+23
+00:02:54,154 --> 00:02:57,639
+<i>Mierda. Mierda.</i>
+
+24
+00:02:57,640 --> 00:03:00,073
+¿Nikolaj?
+
+25
+00:03:07,015 --> 00:03:10,971
+- Asger.
+<i>- ¿Asger Holm?</i>
+
+26
+00:03:12,904 --> 00:03:14,305
+Sí.
+
+27
+00:03:14,306 --> 00:03:19,033
+¿Tienes tiempo para responder algunas
+preguntas sobre mañana?
+
+28
+00:03:19,034 --> 00:03:22,118
+- ¿Quién es?
+<i>- Tanja Brix.</i>
+
+29
+00:03:22,119 --> 00:03:27,727
+<i>¿Puedo hacer algunas preguntas?
+Tanja Brix. ¿Te queda mal?</i>
+
+30
+00:03:27,728 --> 00:03:31,212
+- ¿Eres periodista?
+<i>- Sí, trabajo en el Berlingske.</i>
+
+31
+00:03:31,213 --> 00:03:34,778
+No crees que es una buena idea
+identificarse...
+
+32
+00:03:34,779 --> 00:03:40,707
+<i>- Tienes razón. Lo siento.</i>
+- ¿De dónde obtuviste este número?
+
+33
+00:03:40,708 --> 00:03:46,276
+<i>Estoy escribiendo un artículo del caso
+y te daré la oportunidad de...</i>
+
+34
+00:03:46,277 --> 00:03:51,725
+- No tengo ningún comentario.
+<i>- ¿Y si nos reunimos mañana?</i>
+
+35
+00:03:51,726 --> 00:03:56,092
+<i>- También puedo llamar más tarde.</i>
+- No tengo más comentarios.
+
+36
+00:03:56,093 --> 00:04:00,209
+No puedes hablar por teléfono aquí.
+Ya lo he dicho.
+
+37
+00:04:00,700 --> 00:04:05,537
+Bueno, pensé que el trabajo
+consistía en eso.
+
+38
+00:04:22,415 --> 00:04:26,180
+- Central de emergencias.
+<i>- Soy Søren Amstrup-Riis.</i>
+
+39
+00:04:26,181 --> 00:04:29,665
+<i>Acabo de ser atacado y robado.</i>
+
+40
+00:04:29,666 --> 00:04:33,551
+- ¿Estás en la dirección de tu casa?
+<i>- ¿Dirección de mi casa?</i>
+
+41
+00:04:33,552 --> 00:04:38,279
+<i>No, estoy en mi coche.
+Vengan rápido.</i>
+
+42
+00:04:38,280 --> 00:04:43,727
+- Puedo ver que estás en Vesterbro.
+- Sí.
+
+43
+00:04:43,728 --> 00:04:48,295
+- ¿Dónde?
+<i>- ¿No puedes verlo en la computadora?</i>
+
+44
+00:04:48,296 --> 00:04:51,981
+- Puedo ver la antena más cercana.
+<i>- Necesito a la policía.</i>
+
+45
+00:04:51,982 --> 00:04:55,546
+Necesito una dirección.
+Sal y busca el nombre de una calle.
+
+46
+00:04:55,547 --> 00:05:01,066
+<i>Acabo de ser atacado y robado.
+No voy a salir por ahí.</i>
+
+47
+00:05:03,079 --> 00:05:05,762
+¿Qué ha sucedido?
+
+48
+00:05:05,763 --> 00:05:11,091
+<i>Una mujer sacó un cuchillo y me robó
+mi billetera y mi computadora.</i>
+
+49
+00:05:11,092 --> 00:05:14,247
+- ¿Acaba de suceder?
+<i>- Sí.</i>
+
+50
+00:05:14,858 --> 00:05:18,493
+- ¿En la calle?
+<i>- No, dentro de mi coche.</i>
+
+51
+00:05:20,667 --> 00:05:25,545
+- ¿Cómo entró ella a tu coche?
+<i>- Sí, ella...</i>
+
+52
+00:05:27,198 --> 00:05:32,275
+<i>- Simplemente entró.</i>
+- ¿Simplemente entró?
+
+53
+00:05:37,093 --> 00:05:41,419
+- ¿Estás cerca de Kødbyen, Søren?
+<i>- ¿Por qué?</i>
+
+54
+00:05:41,420 --> 00:05:45,906
+- ¿Puedes ver el pub Høker?
+<i>- Sí.</i>
+
+55
+00:05:45,907 --> 00:05:51,466
+- Søren, estás en Skelbækgade.
+<i>- Ah...</i>
+
+56
+00:05:53,199 --> 00:06:00,961
+- ¿Cuál es la matrícula de tu coche?
+<i>- AN 62206. Un BMW azul.</i>
+
+57
+00:06:00,961 --> 00:06:04,254
+Asalto.
+BMW Azul.
+
+58
+00:06:05,579 --> 00:06:08,573
+¿Cómo era ella?
+
+59
+00:06:10,747 --> 00:06:15,224
+<i>- Era joven. Pelo oscuro.</i>
+- ¿Danesa?
+
+60
+00:06:15,675 --> 00:06:19,400
+<i>No, era más como...</i>
+
+61
+00:06:19,401 --> 00:06:23,357
+- ¿Europa del este?
+<i>- Sí.</i>
+
+62
+00:06:27,053 --> 00:06:31,129
+Bien. Quédate en línea.
+
+63
+00:06:43,279 --> 00:06:46,282
+<i>Central de emergencias, Copenhague.</i>
+
+64
+00:06:46,283 --> 00:06:50,409
+Es Asger, 112 Øst.
+Tengo un asalto en...
+
+65
+00:06:50,410 --> 00:06:54,206
+<i>¿Estás bromeando?
+Es Bo.</i>
+
+66
+00:06:55,498 --> 00:07:00,064
+- ¿Jefe? ¿Qué haces en emergencias?
+<i>- Buena pregunta.</i>
+
+67
+00:07:00,065 --> 00:07:03,910
+<i>Cambios en la jefatura.
+Estaré aquí toda la semana.</i>
+
+68
+00:07:03,911 --> 00:07:06,595
+- Genial.
+<i>- Sí, es genial.</i>
+
+69
+00:07:06,596 --> 00:07:12,324
+<i>- Bendito trabajo de mierda.</i>
+- ¿Mierda? Creo que es increíble.
+
+70
+00:07:12,325 --> 00:07:15,449
+Todos se sientan aquí
+voluntariamente.
+
+71
+00:07:15,450 --> 00:07:20,417
+<i>- Mañana estarás de vuelta en la calle.</i>
+- Lo sé. No puedo esperar.
+
+72
+00:07:20,418 --> 00:07:24,102
+<i>Debemos fingir que estamos trabajando.
+¿Qué tienes para mí?</i>
+
+73
+00:07:24,103 --> 00:07:28,630
+Søren Amstrup-Riis.
+Robado por una prostituta en Skelbækgade.
+
+74
+00:07:28,631 --> 00:07:35,521
+Recibirás el número de matrícula,
+Alfa, Noviembre, 62206. AN 62206.
+
+75
+00:07:35,522 --> 00:07:38,966
+<i>Recibido.
+Enviaré a alguien allí.</i>
+
+76
+00:07:38,967 --> 00:07:44,214
+Déjalo que se quede sentado un poco ahí,
+se lo merece.
+
+77
+00:07:44,215 --> 00:07:47,420
+¿La semana pasada hiciste una
+incautación de 90 kilos?
+
+78
+00:07:47,421 --> 00:07:50,705
+<i>- Sí, fue completamente genial.</i>
+- ¿Un depósito de drogas?
+
+79
+00:07:50,706 --> 00:07:54,070
+<i>- Los atrapamos. Fue increíble.</i>
+- Me lo imagino.
+
+80
+00:07:54,071 --> 00:07:58,998
+- ¿Atraparon a los chicos pesados?
+<i>- Sí, fuimos por todos ellos.</i>
+
+81
+00:07:58,999 --> 00:08:04,046
+Habrán enloquecido. ¿Qué hay de Rashid?
+¿Está bien?
+
+82
+00:08:04,047 --> 00:08:08,163
+<i>Sí. ¿Por qué no debería estarlo?</i>
+
+83
+00:08:09,616 --> 00:08:12,700
+Bueno, sólo quería saber.
+
+84
+00:08:12,701 --> 00:08:16,577
+<i>- Bien, Asger. Adiós.</i>
+- Adiós.
+
+85
+00:08:37,700 --> 00:08:40,824
+- Estoy de vuelta.
+<i>- Sí, gracias, te tomaste tu tiempo.</i>
+
+86
+00:08:40,825 --> 00:08:45,222
+Hay un coche de policía en camino.
+Estará ahí de inmediato.
+
+87
+00:09:54,663 --> 00:09:58,859
+Están llamando.
+¿Qué pasa?
+
+88
+00:10:07,724 --> 00:10:10,798
+Central de emergencias.
+
+89
+00:10:12,091 --> 00:10:15,455
+Central de emergencias.
+
+90
+00:10:15,456 --> 00:10:17,849
+¿Hola?
+
+91
+00:10:19,342 --> 00:10:22,296
+¿Hablo con Iben?
+
+92
+00:10:25,472 --> 00:10:28,066
+<i>Hola, cariño.</i>
+
+93
+00:10:28,597 --> 00:10:32,793
+Lo siento, sabes que has
+llamado al 112, ¿verdad?
+
+94
+00:10:33,364 --> 00:10:36,168
+<i>- Sí.</i>
+- Sí. ¿Necesitas ayuda?
+
+95
+00:10:36,169 --> 00:10:39,925
+<i>Sí. No tengas miedo.</i>
+
+96
+00:10:43,060 --> 00:10:46,665
+- ¿Has estado bebiendo Iben?
+<i>- No, no lo hice.</i>
+
+97
+00:10:46,666 --> 00:10:50,270
+- ¿Por qué llamaste al 112?
+<i>- ¿Tengo que decirlo?</i>
+
+98
+00:10:50,271 --> 00:10:55,559
+- Sí, tienes que decirlo.
+<i>- Bueno, pero es lo mismo...</i>
+
+99
+00:10:55,560 --> 00:10:58,043
+Bueno. Entonces debo cortar.
+Adiós.
+
+100
+00:10:58,044 --> 00:11:04,293
+<i>Estoy fuera conduciendo. ¿No, cariño?
+Bueno, qué diablos...</i>
+
+101
+00:11:04,294 --> 00:11:07,609
+¿Con quién estás?
+
+102
+00:11:09,662 --> 00:11:13,387
+<i>Sí, lo entiendo.</i>
+
+103
+00:11:13,388 --> 00:11:16,833
+¿La persona con la que estás
+sabe que llamaste al 112?
+
+104
+00:11:16,834 --> 00:11:19,187
+<i>No.</i>
+
+105
+00:11:19,718 --> 00:11:23,874
+Bueno. ¿A quién cree
+que has llamado?
+
+106
+00:11:24,325 --> 00:11:26,488
+Sí, cariño.
+
+107
+00:11:26,489 --> 00:11:30,574
+- ¿Es tu hija?
+<i>- Sí.</i>
+
+108
+00:11:30,575 --> 00:11:36,303
+Continúa. Haré preguntas
+y me respondes sí o no, ¿de acuerdo?
+
+109
+00:11:36,304 --> 00:11:40,581
+¿Conoces a la persona
+con la que estás?
+
+110
+00:11:42,154 --> 00:11:46,190
+<i>- Sí.</i>
+- ¿Tiene un arma?
+
+111
+00:11:47,162 --> 00:11:51,919
+- Iben, ¿tiene un arma?
+<i>- No lo sé.</i>
+
+112
+00:11:54,774 --> 00:11:59,130
+- ¿Estás en un auto?
+<i>- Sí.</i>
+
+113
+00:12:00,543 --> 00:12:04,098
+- ¿Te han secuestrado?
+<i>- Sí.</i>
+
+114
+00:12:04,950 --> 00:12:09,636
+Bueno.
+Vamos a averiguar dónde estás.
+
+115
+00:12:09,637 --> 00:12:12,672
+Puedo ver que estás
+al norte de Copenhague.
+
+116
+00:12:14,686 --> 00:12:17,569
+Vamos a tratar de
+mantener la calma.
+
+117
+00:12:17,570 --> 00:12:21,135
+Finge que hablas con tu hija.
+Como si yo fuera tu hija.
+
+118
+00:12:21,136 --> 00:12:23,979
+<i>- Mamá irá a casa pronto.</i>
+- Bien, Iben.
+
+119
+00:12:23,980 --> 00:12:27,064
+- ¿Estás en una carretera?
+<i>- Sí.</i>
+
+120
+00:12:27,065 --> 00:12:29,155
+- ¿Van hacia el sur de Copenhague?
+<i>- No.</i>
+
+121
+00:12:29,156 --> 00:12:31,151
+- ¿Al norte?
+<i>- Sí.</i>
+
+122
+00:12:31,152 --> 00:12:35,838
+<i>- Ahora tienes que cortar.</i>
+- Dile que tu hija está triste.
+
+123
+00:12:35,839 --> 00:12:39,644
+<i>- Ella está triste.</i>
+- Correcto.
+
+124
+00:12:39,645 --> 00:12:46,486
+Tengo que... Quédate en la línea.
+Finge que estás confortando a tu hija.
+
+125
+00:12:47,578 --> 00:12:50,332
+Vamos, Iben.
+
+126
+00:12:53,307 --> 00:12:57,272
+<i>No estés triste.
+Volveré a casa pronto.</i>
+
+127
+00:12:57,273 --> 00:13:01,590
+Bien, Iben.
+Volveré pronto.
+
+128
+00:13:07,770 --> 00:13:11,695
+- Vamos...
+<i>- Central de emergencias Nordsjælland.</i>
+
+129
+00:13:11,696 --> 00:13:14,820
+Asger, 112 Øst.
+Tengo una mujer secuestrada.
+
+130
+00:13:14,821 --> 00:13:19,668
+En la autopista Hillerød entre salida
+6 y 9. ¿Tienen un coche cerca?
+
+131
+00:13:19,669 --> 00:13:22,743
+<i>Déjame revisar...</i>
+
+132
+00:13:24,156 --> 00:13:26,679
+¿Tenemos algo?
+
+133
+00:13:26,680 --> 00:13:30,846
+<i>- Sí, tengo un coche.</i>
+- Entonces envíalo a dirección norte.
+
+134
+00:13:30,847 --> 00:13:35,613
+<i>- ¿Tienes un número de matrícula?</i>
+- No, pero ella puede avisar.
+
+135
+00:13:35,614 --> 00:13:38,538
+<i>Entendido.</i>
+
+136
+00:13:38,539 --> 00:13:43,746
+Iben, estoy de vuelta otra vez.
+Hay un coche de policía en camino.
+
+137
+00:13:43,747 --> 00:13:49,555
+Cuando pase, da una señal
+y entonces detendrá a tu coche.
+
+138
+00:13:49,556 --> 00:13:53,793
+Iben, ahora sólo esperaremos.
+Espera un momento.
+
+139
+00:13:55,967 --> 00:13:59,411
+Iben, finge que sigues
+hablando con tu hija.
+
+140
+00:13:59,412 --> 00:14:02,647
+Dile que es hora
+de ir a la cama.
+
+141
+00:14:03,418 --> 00:14:07,464
+- Vamos, Iben...
+<i>- Tienes que irte a la cama, cariño.</i>
+
+142
+00:14:07,465 --> 00:14:11,470
+- Bien. Estamos en camino.
+<i>- Puedes dormir con la luz encendida.</i>
+
+143
+00:14:11,471 --> 00:14:14,395
+<i>- Déjame hablar con ella.
+- No.</i>
+
+144
+00:14:14,396 --> 00:14:18,361
+<i>- Dame el celular.</i>
+- Ella sólo quiere hablar contigo, Iben.
+
+145
+00:14:18,362 --> 00:14:22,247
+- Dile que ella sólo quiere hablar contigo.
+<i>- Ella sólo quiere hablar conmigo.</i>
+
+146
+00:14:22,248 --> 00:14:27,496
+<i>Lo siento, lo siento.
+Lo siento, cariño. Tengo que colgar ahora.</i>
+
+147
+00:14:27,497 --> 00:14:30,701
+Iben, espera... Mencionaré algún
+color posible del coche.
+
+148
+00:14:30,702 --> 00:14:33,866
+Cuando diga el correcto,
+dices: "está bien".
+
+149
+00:14:33,867 --> 00:14:38,073
+Rojo. Azul. Negro...
+
+150
+00:14:38,074 --> 00:14:41,398
+- Blanco...
+<i>- Sí, está bien.</i>
+
+151
+00:14:41,399 --> 00:14:46,326
+- Está bien, blanco. ¿Un coche particular?
+<i>- Una camioneta. Duerme bien bebé.</i>
+
+152
+00:14:46,327 --> 00:14:51,164
+<i>- ¿Qué dices?</i>
+- Sólo responde sí o no, ¿de acuerdo?
+
+153
+00:14:52,456 --> 00:14:55,050
+¿Iben?
+
+154
+00:14:55,541 --> 00:15:02,271
+Si necesitas colgar, llámame cuando puedas.
+Mi nombre es Asger.
+
+155
+00:15:02,272 --> 00:15:05,416
+¿Iben?
+
+156
+00:15:10,456 --> 00:15:14,766
+<i>- Central de emergencias Nordsjælland.</i>
+- Asger. ¿Está el coche en la carretera?
+
+157
+00:15:14,767 --> 00:15:19,876
+<i>- Sí, estamos esperando la señal.</i>
+- La llamada fue desconectada.
+
+158
+00:15:19,877 --> 00:15:25,106
+- Conéctame con la patrulla.
+<i>- Sí, pero, ¿qué piensas hacer?</i>
+
+159
+00:15:25,107 --> 00:15:28,499
+¿Puedes hacer eso, por favor?
+
+160
+00:15:28,500 --> 00:15:32,651
+- ¿Hola?
+<i>- Sí, adelante.</i>
+
+161
+00:15:32,652 --> 00:15:36,044
+<i>- Aquí 2907, ¿hola?</i>
+- Es Asger, 112 Øst.
+
+162
+00:15:36,045 --> 00:15:40,556
+<i>- Hola. Estamos esperando la señal.</i>
+- ¿En qué salida están ahora?
+
+163
+00:15:40,557 --> 00:15:46,424
+<i>- La próxima será la 8.</i>
+- ¿8? Así que deben estar cerca.
+
+164
+00:15:46,425 --> 00:15:51,215
+- Conducen a 110. ¿Y ustedes?
+<i>- Alrededor de 140.</i>
+
+165
+00:15:51,216 --> 00:15:56,085
+- Es una camioneta blanca.
+<i>- Buscamos una camioneta blanca.</i>
+
+166
+00:15:56,086 --> 00:15:59,279
+- ¿No pasó ninguna?
+<i>- Hay algo allí.</i>
+
+167
+00:15:59,280 --> 00:16:01,913
+<i>- ¿Dónde?
+- Adelante.</i>
+
+168
+00:16:01,914 --> 00:16:05,427
+<i>- Hay una camioneta.</i>
+- ¿Qué color?
+
+169
+00:16:05,428 --> 00:16:11,486
+<i>- Es difícil ver desde aquí.</i>
+- Intenten acercarse.
+
+170
+00:16:13,132 --> 00:16:17,203
+<i>¡Mierda! Puso el señalero.
+Está saliendo de la carretera.</i>
+
+171
+00:16:17,204 --> 00:16:21,195
+<i>Debe habernos visto.
+Debe ser él, ¿verdad?</i>
+
+172
+00:16:21,196 --> 00:16:26,705
+- Acércate.
+<i>- No podemos. Se está yendo.</i>
+
+173
+00:16:26,706 --> 00:16:30,329
+<i>- ¿Qué debemos hacer?</i>
+- Ve tras él.
+
+174
+00:16:39,880 --> 00:16:43,343
+<i>Se está deteniendo.</i>
+
+175
+00:16:43,792 --> 00:16:47,176
+- ¿Es blanca?
+<i>- Sí.</i>
+
+176
+00:16:51,377 --> 00:16:55,129
+<i>- ¿Está armado?</i>
+- No es seguro. Es muy posible.
+
+177
+00:16:55,130 --> 00:16:59,232
+<i>- Entendido.</i>
+- Mantenme en línea.
+
+178
+00:17:09,182 --> 00:17:14,011
+<i>Policía. ¡Policía!
+Muéstrame tus manos.</i>
+
+179
+00:17:14,012 --> 00:17:17,356
+<i>Mantenlas en el volante.</i>
+
+180
+00:17:24,831 --> 00:17:27,975
+<i>¿Qué sucedió?</i>
+
+181
+00:17:49,981 --> 00:17:54,802
+- ¿Qué pasó?
+<i>- Coche equivocado. Ninguna mujer.</i>
+
+182
+00:17:57,447 --> 00:18:00,719
+- ¿Estás seguro?
+<i>- No había ninguna mujer.</i>
+
+183
+00:18:00,720 --> 00:18:05,821
+- Era blanca, ¿verdad?
+- Es difícil decirlo en la oscuridad.
+
+184
+00:18:11,579 --> 00:18:15,690
+<i>- Central de emergencias Nordsjælland.</i>
+- Tu coche salió de la autopista.
+
+185
+00:18:15,691 --> 00:18:18,923
+<i>- ¿Por qué?</i>
+- Pararon el coche equivocado.
+
+186
+00:18:18,924 --> 00:18:23,195
+<i>Debo informar a la patrulla.
+¿Sabemos lo que estamos buscando?</i>
+
+187
+00:18:23,196 --> 00:18:26,588
+- Una camioneta blanca.
+<i>- No es suficiente.</i>
+
+188
+00:18:26,589 --> 00:18:32,288
+<i>- Tengo seis coches aquí.</i>
+- Precisas la matrícula, lo sé...
+
+189
+00:18:33,336 --> 00:18:37,766
+Ella no es dueña de un coche. Sólo tengo
+un número de teléfono fijo y una dirección.
+
+190
+00:18:37,767 --> 00:18:42,357
+<i>¿No puedes llamar?
+Y yo le aviso a la patrulla.</i>
+
+191
+00:18:42,358 --> 00:18:46,021
+- Sí. Te llamo luego.
+<i>- Bueno.</i>
+
+192
+00:19:21,561 --> 00:19:23,436
+<i>¿Mamá?</i>
+
+193
+00:19:23,437 --> 00:19:27,189
+No, no es mamá.
+Es Asger Holm de la policía.
+
+194
+00:19:27,190 --> 00:19:32,538
+- ¿Hay adultos en casa?
+<i>- No.</i>
+
+195
+00:19:32,539 --> 00:19:38,646
+- Bueno. ¿Cuál es tu nombre?
+<i>- Mathilde.</i>
+
+196
+00:19:38,647 --> 00:19:43,836
+- Hola Mathilde. ¿Cuántos años tienes?
+<i>- Casi siete.</i>
+
+197
+00:19:43,837 --> 00:19:48,667
+- Casi siete.
+<i>- Mi hermano también está en casa.</i>
+
+198
+00:19:48,668 --> 00:19:54,926
+- Bien. ¿Puedo hablar con él?
+<i>- No puedes. Es un bebé.</i>
+
+199
+00:19:55,374 --> 00:20:01,353
+Bueno. ¿Cuál es el nombre de tu madre?
+¿Se llama Iben?
+
+200
+00:20:02,081 --> 00:20:04,875
+<i>- Ellos salieron.</i>
+- ¿Quienes salieron?
+
+201
+00:20:04,876 --> 00:20:07,581
+<i>Mamá y papá.</i>
+
+202
+00:20:08,029 --> 00:20:12,460
+Mamá salió con tu padre.
+¿Dijeron a dónde iban?
+
+203
+00:20:12,461 --> 00:20:17,242
+<i>- No.</i>
+- ¿No dijeron a dónde iban?
+
+204
+00:20:18,369 --> 00:20:21,322
+<i>- Sólo se fueron.</i>
+- Bueno.
+
+205
+00:20:21,323 --> 00:20:26,911
+- ¿Tu padre tiene una camioneta blanca?
+<i>- Ya no vive aquí.</i>
+
+206
+00:20:26,912 --> 00:20:31,981
+- No, ¿pero tiene un gran coche blanco?
+- Sí.
+
+207
+00:20:31,982 --> 00:20:35,366
+Bueno. ¿Cuál es el nombre de tu padre?
+
+208
+00:20:38,409 --> 00:20:42,760
+- Mathilde, ¿cómo se llama tu padre?
+<i>- Michael.</i>
+
+209
+00:20:42,761 --> 00:20:46,632
+Michael. ¿También tiene apellido?
+
+210
+00:20:46,633 --> 00:20:50,545
+¿Se llama Østergård
+como tu madre?
+
+211
+00:20:50,546 --> 00:20:52,860
+No lo sé.
+
+212
+00:20:52,861 --> 00:20:57,802
+- ¿Está casado con tu madre?
+<i>- Ya no.</i>
+
+213
+00:20:59,129 --> 00:21:06,544
+- ¿Cuál es la calle donde vive tu padre?
+<i>- No puedo visitarlo.</i>
+
+214
+00:21:07,871 --> 00:21:14,258
+- Bueno. ¿Tienes un número de teléfono?
+<i>- 50850204.</i>
+
+215
+00:21:14,259 --> 00:21:18,170
+Necesito oírlo de nuevo.
+¿Puedes decirlo otra vez?
+
+216
+00:21:18,171 --> 00:21:23,471
+<i>50850204.</i>
+
+217
+00:21:23,920 --> 00:21:27,552
+Lo anotaste muy bien.
+
+218
+00:21:27,553 --> 00:21:31,863
+<i>Papá me ayudó a memorizarlo.
+No sé escribir.</i>
+
+219
+00:21:31,864 --> 00:21:33,819
+No, bien.
+
+220
+00:21:33,820 --> 00:21:37,044
+Michael Berg.
+
+221
+00:21:38,012 --> 00:21:44,798
+Y el número de registro.
+Mathilde, lo hiciste muy bien.
+
+222
+00:21:44,799 --> 00:21:48,342
+Realmente.
+
+223
+00:21:51,146 --> 00:21:54,450
+Mathilde, no llores.
+
+224
+00:21:56,336 --> 00:21:58,881
+¿Mathilde?
+
+225
+00:21:59,649 --> 00:22:04,031
+Mathilde, no llores.
+Todo va a salir bien.
+
+226
+00:22:05,119 --> 00:22:08,551
+<i>Papá vino a casa
+y le gritó a mamá.</i>
+
+227
+00:22:08,552 --> 00:22:11,784
+<i>Y ella estaba triste.</i>
+
+228
+00:22:11,785 --> 00:22:16,535
+<i>Luego se acercó a Oliver y gritó.</i>
+
+229
+00:22:16,536 --> 00:22:21,317
+<i>Creo que le gritó a Oliver.</i>
+
+230
+00:22:22,764 --> 00:22:27,473
+<i>- Y luego tiró del pelo de mamá.</i>
+- ¿Oliver es tu hermanito?
+
+231
+00:22:27,474 --> 00:22:30,907
+<i>Sí y luego le gritó a mamá.</i>
+
+232
+00:22:30,908 --> 00:22:36,367
+<i>Y luego tomó un cuchillo
+y se fueron.</i>
+
+233
+00:22:37,215 --> 00:22:42,045
+<i>- No puede pasarle nada a mamá.</i>
+- Sí, pero...
+
+234
+00:22:42,046 --> 00:22:46,396
+- Intenta escuchar...
+<i>- Y si él mata a mamá...</i>
+
+235
+00:22:46,397 --> 00:22:51,777
+Nadie matará a tu madre, ¿de acuerdo?
+
+236
+00:22:52,405 --> 00:22:55,859
+<i>- ¿Lo prometes?</i>
+- Sí, lo prometo.
+
+237
+00:22:56,996 --> 00:23:00,042
+Mathilde, soy de la policía.
+¿Conoces a la policía?
+
+238
+00:23:02,565 --> 00:23:08,344
+- Sí, eso creo.
+- Somos guardianes, ¿entiendes?
+
+239
+00:23:09,472 --> 00:23:12,345
+<i>- ¿Guardianes?</i>
+- Sí, guardianes.
+
+240
+00:23:12,346 --> 00:23:17,854
+Protegemos a los que necesitan ayuda.
+¿De acuerdo?
+
+241
+00:23:17,855 --> 00:23:22,166
+Así que encontraré a tu madre y la llevaré
+a tu casa, contigo y tu hermano, ¿sí?
+
+242
+00:23:22,167 --> 00:23:24,521
+<i>Bueno.</i>
+
+243
+00:23:24,522 --> 00:23:30,150
+Voy a mandar unos policías
+para que cuiden de ti y Oliver.
+
+244
+00:23:30,151 --> 00:23:33,583
+- ¿Puedo hacer eso?
+<i>- Sí.</i>
+
+245
+00:23:33,584 --> 00:23:37,096
+- Lo haré.
+<i>- No puede pasarle nada a mamá.</i>
+
+246
+00:23:37,097 --> 00:23:41,847
+No va a pasar nada.
+Pronto alguien irá a cuidar de ustedes.
+
+247
+00:23:41,848 --> 00:23:46,677
+Si sucede algo, llamas al 1-1-2,
+¿de acuerdo?
+
+248
+00:23:46,678 --> 00:23:50,151
+<i>- 1-1-2.</i>
+- Sí, 1-1-2.
+
+249
+00:23:50,152 --> 00:23:54,702
+- ¿Te acuerdas de eso?
+<i>- 1-1-2.</i>
+
+250
+00:23:54,703 --> 00:23:56,857
+Muy bien.
+
+251
+00:23:56,858 --> 00:24:03,156
+- Bien, Mathilde. Ahora voy a cortar.
+<i>- Tengo miedo de estar sola.</i>
+
+252
+00:24:06,120 --> 00:24:09,952
+Cuando siento que estoy solo,
+enciendo la televisión.
+
+253
+00:24:09,953 --> 00:24:13,864
+Entonces se siente como si
+otras personas estuvieran conmigo.
+
+254
+00:24:13,865 --> 00:24:18,047
+- ¿No puedes hacer eso?
+<i>- Está rota.</i>
+
+255
+00:24:19,574 --> 00:24:25,911
+¿No puedes ir con tu hermano?
+Estar un poco con él.
+
+256
+00:24:26,480 --> 00:24:30,950
+<i>- Papá dijo que no tenía que hacerlo.</i>
+- No importa lo que dijo.
+
+257
+00:24:30,951 --> 00:24:34,783
+- Puedes ir a verlo.
+<i>- ¿Y si lo despierto?</i>
+
+258
+00:24:34,784 --> 00:24:38,495
+Entrarás en silencio, ¿verdad?
+
+259
+00:24:38,496 --> 00:24:42,527
+Sólo ve en silencio con él
+hasta que llegue la policía.
+
+260
+00:24:42,528 --> 00:24:45,362
+¿Podemos hacer eso?
+
+261
+00:24:45,363 --> 00:24:49,034
+<i>- ¿Estás seguro?</i>
+- Por supuesto.
+
+262
+00:24:49,035 --> 00:24:54,025
+- Sólo ve con tu hermano.
+<i>- Está bien, ahora voy con él.</i>
+
+263
+00:24:54,026 --> 00:24:56,500
+Bueno.
+
+264
+00:24:56,501 --> 00:25:00,044
+<i>- Adiós.</i>
+- Adiós.
+
+265
+00:25:06,920 --> 00:25:10,752
+- ¿Qué pasa?
+- Nada.
+
+266
+00:25:10,753 --> 00:25:15,981
+¿Alguien aquí recibió una
+llamada de Iben Østergård?
+
+267
+00:25:15,982 --> 00:25:18,967
+¿Tú tampoco?
+
+268
+00:25:33,228 --> 00:25:37,100
+<i>- Central de emergencias Nordsjælland.</i>
+- Asger. Tengo una matrícula.
+
+269
+00:25:37,101 --> 00:25:39,695
+Zulu Tango 55803.
+
+270
+00:25:39,696 --> 00:25:42,250
+ZT 55803.
+
+271
+00:25:42,251 --> 00:25:46,082
+<i>- ZT 55803. Lo enviaré.</i>
+- Bueno.
+
+272
+00:25:46,083 --> 00:25:50,394
+Es el padre de los niños,
+Michael Berg, que está con ella.
+
+273
+00:25:50,395 --> 00:25:55,104
+Él tiene un cuchillo
+Es violento.
+
+274
+00:25:55,105 --> 00:25:59,575
+<i>- Sí, tengo que mandar la matrícula.</i>
+- No van de camino a Amager.
+
+275
+00:25:59,576 --> 00:26:04,326
+<i>- Tengo que mandar la matrícula a todos.</i>
+- Sí, pero ¿cuál es tu plan?
+
+276
+00:26:04,327 --> 00:26:09,516
+<i>- Esperamos que lo encuentren.</i>
+- Pero...
+
+277
+00:26:09,517 --> 00:26:15,943
+<i>Cuanto más rápido lo haga,
+más probable es que los encontremos.</i>
+
+278
+00:26:15,944 --> 00:26:20,933
+<i>- Está bien que quieras ayudar...</i>
+- Pero trata de escucharme.
+
+279
+00:26:20,934 --> 00:26:25,524
+<i>Ahora tengo que decirte algo.
+Espera a que ella llame.</i>
+
+280
+00:26:25,525 --> 00:26:30,714
+<i>Haz tu trabajo. Recibes la llamada
+y luego llamas aquí. ¿De acuerdo?</i>
+
+281
+00:26:30,715 --> 00:26:33,069
+- Sí.
+<i>- Bien. Adiós.</i>
+
+282
+00:26:33,070 --> 00:26:35,616
+Pero, por sí...
+
+283
+00:26:54,029 --> 00:26:57,302
+<i>- Central de emergencias Nordsjælland.</i>
+- Asger, 112 Øst.
+
+284
+00:26:57,303 --> 00:27:01,693
+Debes enviar a alguien por sus dos niños.
+Toftegårdsvej 13, en Farum.
+
+285
+00:27:01,694 --> 00:27:05,317
+- ¿Entendiste?
+<i>- Toftegårdsvej 13, Farum.</i>
+
+286
+00:27:30,837 --> 00:27:33,462
+¿Torben?
+
+287
+00:27:34,549 --> 00:27:38,492
+- ¿Torben?
+- Sí.
+
+288
+00:27:40,817 --> 00:27:44,289
+Me gustaría disculparme
+por mi comportamiento.
+
+289
+00:27:44,290 --> 00:27:48,561
+No sólo hoy, sino siempre.
+
+290
+00:27:48,562 --> 00:27:52,424
+Sé que he sido completamente...
+
+291
+00:27:53,392 --> 00:27:57,255
+¿Quieres aceptar mi disculpa?
+
+292
+00:28:00,857 --> 00:28:04,321
+- Claro.
+- Gracias.
+
+293
+00:28:08,961 --> 00:28:14,310
+- ¿Puedo hacer una pregunta técnica?
+- Sí, por supuesto.
+
+294
+00:28:14,311 --> 00:28:19,619
+Si cambio de estación, ¿recupero la
+lista de las llamadas anteriores?
+
+295
+00:28:19,620 --> 00:28:24,809
+Sí. Quedan en el login, no en la estación,
+porque el sistema...
+
+296
+00:28:24,810 --> 00:28:27,843
+- ¿Qué vas a hacer?
+- Voy a entrar en la 2.
+
+297
+00:28:27,844 --> 00:28:31,986
+- ¿Por qué? Nos vamos en 15 minutos.
+- Sí...
+
+298
+00:29:00,141 --> 00:29:03,892
+<i>- Central de emergencias Copenhague.</i>
+- Hola Bo. Es Asger.
+
+299
+00:29:03,893 --> 00:29:10,080
+<i>- ¿Otra vez? ¿Nunca tienes libre?</i>
+- ¿Te estoy molestando? ¿Todo bien?
+
+300
+00:29:10,081 --> 00:29:14,551
+<i>Es más aburrido que
+estar en el baño.</i>
+
+301
+00:29:14,552 --> 00:29:19,541
+- Lo sé. Toma tiempo.
+<i>- ¿Estás loco?</i>
+
+302
+00:29:19,542 --> 00:29:23,254
+- ¿No hay mucho para hacer?
+<i>- Ha estado todo tranquilo.</i>
+
+303
+00:29:23,255 --> 00:29:26,847
+<i>- ¿Y por ahí?</i>
+- Lo mismo. Tranquilo.
+
+304
+00:29:26,848 --> 00:29:31,039
+Pero estoy con un caso aquí.
+¿Podrías hacerme un favor?
+
+305
+00:29:31,040 --> 00:29:35,190
+¿Podrías enviar a dos tipos
+a Strandlodsvej 12 en Amager?
+
+306
+00:29:35,191 --> 00:29:38,704
+<i>- ¿De qué se trata?</i>
+- Ahí vive un tal Michael Berg.
+
+307
+00:29:38,705 --> 00:29:42,017
+- Secuestró a su ex esposa.
+<i>- ¿Están en la dirección?</i>
+
+308
+00:29:42,018 --> 00:29:45,370
+No, están conduciendo hacia el norte.
+Están en Nordsjælland.
+
+309
+00:29:45,371 --> 00:29:49,323
+<i>- Tienes que pedirle a ellos.</i>
+- Ya lo hice.
+
+310
+00:29:49,324 --> 00:29:53,235
+<i>- No entiendo.</i>
+- Allí están buscando el coche.
+
+311
+00:29:53,236 --> 00:29:58,345
+Pero vive en tu área.
+Necesito averiguar a dónde va.
+
+312
+00:29:58,346 --> 00:30:02,776
+<i>- ¿Hay alguien en la dirección?</i>
+- No lo sé.
+
+313
+00:30:02,777 --> 00:30:07,766
+- Pero sólo tienes que entrar.
+<i>- No escuché lo que dijiste.</i>
+
+314
+00:30:07,767 --> 00:30:13,027
+- Precisas entrar.
+<i>- No escuché eso.</i>
+
+315
+00:30:14,115 --> 00:30:19,703
+He hablado con una niña de seis años
+y le prometí que su madre volverá a casa.
+
+316
+00:30:19,704 --> 00:30:22,648
+<i>¡Detente!</i>
+
+317
+00:30:29,205 --> 00:30:32,637
+<i>Eso no es tu trabajo.</i>
+
+318
+00:30:33,367 --> 00:30:37,248
+- Lo sé.
+<i>- Sí, lo sabes.</i>
+
+319
+00:30:37,249 --> 00:30:40,601
+<i>¿Tiene que ver con lo de mañana?</i>
+
+320
+00:30:41,972 --> 00:30:46,613
+Estoy bien.
+Solo estoy tratando de hacer mi trabajo.
+
+321
+00:30:46,614 --> 00:30:50,776
+<i>¿No quieres que te ponga
+un nuevo psicólogo?</i>
+
+322
+00:30:50,777 --> 00:30:55,289
+<i>- No te gustó el último.</i>
+- Estoy bien.
+
+323
+00:30:57,060 --> 00:30:59,820
+<i>- Bueno.</i>
+- No más psico...
+
+324
+00:30:59,821 --> 00:31:03,262
+<i>- ¿Cuándo quedarás libre?</i>
+- En diez minutos.
+
+325
+00:31:03,263 --> 00:31:07,144
+<i>Entonces quédate tranquilo en esos
+diez minutos. Y mañana vas a la corte.</i>
+
+326
+00:31:07,145 --> 00:31:12,298
+<i>Después puedes volver a la calle,
+lejos del teléfono.</i>
+
+327
+00:31:15,390 --> 00:31:18,702
+<i>Porque eso es lo que quieres, ¿verdad?</i>
+
+328
+00:31:21,953 --> 00:31:24,905
+<i>¿No es eso, Asger?</i>
+
+329
+00:31:27,036 --> 00:31:29,436
+- Sí.
+<i>- ¿Qué dijiste?</i>
+
+330
+00:31:29,437 --> 00:31:33,198
+- Sí.
+<i>- Saluda a Patricia de mi parte.</i>
+
+331
+00:31:33,199 --> 00:31:36,760
+- No está aquí.
+<i>- No, cuando llegues a casa.</i>
+
+332
+00:31:36,761 --> 00:31:40,273
+<i>- Hablamos, adiós.</i>
+- Sí, pero ella...
+
+333
+00:31:41,724 --> 00:31:44,275
+se mudó.
+
+334
+00:32:24,827 --> 00:32:30,229
+<i>Has llamado a Iben Østergård.
+Ahora no puedo atender...</i>
+
+335
+00:32:30,230 --> 00:32:37,104
+<i>pero deja un mensaje o llama más tarde,
+o envía un mensaje de texto. Adiós.</i>
+
+336
+00:32:47,519 --> 00:32:51,841
+<i>- Central de emergencias Nordsjælland.</i>
+- Asger, 112 Øst. ¿La has encontrado?
+
+337
+00:32:51,842 --> 00:32:54,793
+<i>No, aún no.</i>
+
+338
+00:32:55,604 --> 00:32:59,445
+<i>¿Tienes algo nuevo?
+¿Por eso estás llamando?</i>
+
+339
+00:32:59,446 --> 00:33:01,997
+No, adiós.
+
+340
+00:33:16,455 --> 00:33:19,286
+- ¿Sí?
+<i>- Barracuda aquí.</i>
+
+341
+00:33:20,257 --> 00:33:23,458
+<i>Un portero hijo de puta
+ha aplastado a Mehdi.</i>
+
+342
+00:33:23,459 --> 00:33:26,419
+- ¿Dónde estás?
+<i>- En la mierda de Barracuda.</i>
+
+343
+00:33:26,420 --> 00:33:29,621
+- ¿Tienes una dirección?
+<i>- ¿Me estás jodiendo?</i>
+
+344
+00:33:29,622 --> 00:33:34,944
+- No se hace nada sin una dirección.
+<i>- Él no va a hacer una mierda.</i>
+
+345
+00:33:34,945 --> 00:33:38,706
+- ¿Estás en Odense?
+<i>- A la mierda. Lo resolveremos nosotros.</i>
+
+346
+00:33:38,707 --> 00:33:43,419
+- Debes dejar que la policía se ocupe...
+<i>- ¡Qué te jodan!</i>
+
+347
+00:34:51,146 --> 00:34:54,097
+Hola, ¿eres Michael?
+
+348
+00:34:58,590 --> 00:35:01,461
+¿Michael?
+
+349
+00:35:07,955 --> 00:35:13,317
+<i>- ¿Quién eres?</i>
+- Asger Holm, policía de Copenhague.
+
+350
+00:35:13,318 --> 00:35:18,880
+Acabo de hablar con tu hija.
+Está sola en casa con su hermanito.
+
+351
+00:35:18,881 --> 00:35:23,593
+- ¿Sabes dónde está Iben?
+<i>- No.</i>
+
+352
+00:35:24,804 --> 00:35:32,038
+Bueno. ¿Podría llevarte
+a Mathilde y Oliver?
+
+353
+00:35:36,450 --> 00:35:40,011
+<i>- Ahora no puedo.</i>
+- ¿Estás ocupado?
+
+354
+00:35:40,012 --> 00:35:42,523
+<i>Sí.</i>
+
+355
+00:35:45,855 --> 00:35:49,856
+Sé que estás con Iben.
+¿A dónde van?
+
+356
+00:35:49,857 --> 00:35:53,939
+<i>- No te metas.</i>
+- ¿En qué no debemos meternos?
+
+357
+00:35:53,940 --> 00:35:57,461
+- ¿Estás en Vestre, dices?
+<i>- ¿Qué?</i>
+
+358
+00:35:57,462 --> 00:36:00,222
+Puedo ver que estás en...
+
+359
+00:36:00,223 --> 00:36:02,774
+¡Mierda!
+
+360
+00:36:16,792 --> 00:36:20,504
+<i>Es Michael, deja un mensaje.</i>
+
+361
+00:36:44,967 --> 00:36:47,718
+<i>- ¿Sí?</i>
+- ¿Rashid?
+
+362
+00:36:48,169 --> 00:36:52,881
+<i>- Hola, Asger. ¿Qué pasa?</i>
+- ¿Está todo bien?
+
+363
+00:36:53,892 --> 00:36:58,413
+<i>- Sí, sí. ¿Ha ocurrido algo?</i>
+- No, tienes que hacerme un favor.
+
+364
+00:36:58,414 --> 00:37:02,767
+<i>- Por supuesto. ¿Qué es?</i>
+- ¿Dónde estás?
+
+365
+00:37:03,257 --> 00:37:08,049
+<i>- En la estación. Estoy saliendo.</i>
+- ¿Estás con el auto?
+
+366
+00:37:08,620 --> 00:37:11,340
+- ¿Rashid?
+<i>- Sí.</i>
+
+367
+00:37:11,341 --> 00:37:16,303
+Tienes que ir a una
+dirección en Amager por mí.
+
+368
+00:37:16,304 --> 00:37:18,935
+- ¿Entendiste?
+<i>- Sí.</i>
+
+369
+00:37:21,147 --> 00:37:25,339
+- ¿No estás en la estación?
+<i>- Sí.</i>
+
+370
+00:37:26,029 --> 00:37:29,630
+Simplemente no suena así.
+Suenas extraño.
+
+371
+00:37:29,631 --> 00:37:32,743
+<i>No sueno extraño.</i>
+
+372
+00:37:33,273 --> 00:37:36,225
+¿Has estado bebiendo?
+
+373
+00:37:36,795 --> 00:37:40,547
+Rashid, no has bebido, ¿verdad?
+
+374
+00:37:41,157 --> 00:37:43,718
+<i>Asger...</i>
+
+375
+00:37:43,719 --> 00:37:47,840
+- No bebas Rashid.
+<i>- No.</i>
+
+376
+00:37:47,841 --> 00:37:50,922
+- No bebas.
+<i>- Lo sé.</i>
+
+377
+00:37:50,923 --> 00:37:54,163
+- Mañana debes testificar para mí.
+<i>- Lo sé.</i>
+
+378
+00:37:54,164 --> 00:37:59,166
+- No puedes ir con resaca.
+<i>- Por supuesto que no.</i>
+
+379
+00:37:59,167 --> 00:38:03,319
+<i>- Es sólo que...</i>
+- ¿Es sólo qué?
+
+380
+00:38:04,370 --> 00:38:07,241
+¿Qué pasa?
+
+381
+00:38:07,852 --> 00:38:12,404
+<i>Tengo miedo que no lo logremos,
+¿de acuerdo?</i>
+
+382
+00:38:17,857 --> 00:38:23,219
+<i>¿Y si digo algo que
+no coincide con la pregunta?</i>
+
+383
+00:38:23,220 --> 00:38:29,382
+<i>- Asger, imagínate si...</i>
+- Después de mañana se acabó.
+
+384
+00:38:29,383 --> 00:38:33,135
+Seremos tú y yo otra vez.
+¿De acuerdo?
+
+385
+00:38:34,026 --> 00:38:37,698
+- ¿De acuerdo?
+<i>- Sí.</i>
+
+386
+00:38:40,029 --> 00:38:44,751
+<i>Estoy cansado de esto. Estaré feliz
+si podemos patrullar juntos de nuevo.</i>
+
+387
+00:38:44,752 --> 00:38:48,513
+Yo también, compañero.
+Haremos eso después de mañana.
+
+388
+00:38:48,514 --> 00:38:53,786
+- Seguimos con lo planeado, ¿verdad?
+<i>- Sí, por supuesto.</i>
+
+389
+00:38:54,237 --> 00:38:57,437
+- Bien.
+<i>- Perdón.</i>
+
+390
+00:38:57,438 --> 00:39:00,719
+- ¿Cuánto has estado bebiendo?
+<i>- Dos o tres cervezas.</i>
+
+391
+00:39:00,720 --> 00:39:04,721
+Entonces puedes hacerlo.
+Ve rápido. Es importante.
+
+392
+00:39:04,722 --> 00:39:09,484
+<i>- Tal vez fueron 4 o 5.</i>
+- Entonces conduce con cuidado.
+
+393
+00:39:09,485 --> 00:39:12,806
+<i>- ¿Que se supone que haga?</i>
+- Te lo iré diciendo.
+
+394
+00:39:12,807 --> 00:39:16,488
+- Alguien nos necesita.
+<i>- ¿Quién?</i>
+
+395
+00:39:16,489 --> 00:39:19,400
+Te lo digo después.
+
+396
+00:39:20,371 --> 00:39:22,931
+<i>Está bien, dame la dirección.</i>
+
+397
+00:39:22,932 --> 00:39:26,053
+Strandlodsvej 12 en Amager.
+Allí vive Michael Berg.
+
+398
+00:39:26,054 --> 00:39:29,855
+- Strandlodsvej 12. ¿Puedes recordarlo?
+<i>- Strandlodsvej 12.</i>
+
+399
+00:39:29,856 --> 00:39:34,097
+- Cuando estés allí, me llamas.
+<i>- Entendido.</i>
+
+400
+00:39:34,098 --> 00:39:40,100
+- Ve con cuidado y tan rápido como puedas.
+<i>- Estoy yendo.</i>
+
+401
+00:39:40,101 --> 00:39:46,184
+- ¿Puedo hablar por teléfono aquí?
+- Una niña quiere hablar contigo.
+
+402
+00:39:46,185 --> 00:39:50,857
+- ¿Es Mathilde?
+- Ella no quiere decir cómo se llama.
+
+403
+00:39:51,748 --> 00:39:55,148
+- ¿Te la transfiero?
+- Sí, hazlo. Cierra la puerta.
+
+404
+00:39:55,149 --> 00:39:58,101
+Lo siento. Gracias.
+
+405
+00:40:15,440 --> 00:40:17,992
+¿Mathilde?
+
+406
+00:40:18,362 --> 00:40:21,242
+<i>- Hola.</i>
+- Hola.
+
+407
+00:40:21,243 --> 00:40:24,324
+<i>Hay alguien afuera.</i>
+
+408
+00:40:24,325 --> 00:40:28,797
+Es la policía.
+Puedes abrirle.
+
+409
+00:40:29,848 --> 00:40:34,730
+- Mathilde, debes ir y abrir la puerta.
+<i>- Sí.</i>
+
+410
+00:40:34,731 --> 00:40:39,132
+<i>- ¿Volverá mamá a casa?</i>
+- Sí, lo hará.
+
+411
+00:40:39,133 --> 00:40:44,335
+Ahora sólo abre la puerta
+y dale el teléfono a uno de ellos.
+
+412
+00:40:44,336 --> 00:40:47,287
+<i>- Sí.</i>
+- Bueno.
+
+413
+00:40:50,819 --> 00:40:56,942
+<i>Hola. Mi nombre es Tim y ella es Janne.
+Somos de la policía.</i>
+
+414
+00:40:56,943 --> 00:41:02,705
+<i>¿Alguien con quien pueda hablar?
+Tim Andersen, policía del norte de Zelanda.</i>
+
+415
+00:41:02,706 --> 00:41:08,108
+- Asger Holm, 112 Øst.
+<i>- Hola. Vinimos por dos niños.</i>
+
+416
+00:41:08,109 --> 00:41:12,350
+Ahí está Mathilde y su hermanito.
+Tengo que dejar libre la línea.
+
+417
+00:41:12,351 --> 00:41:18,304
+- Su madre puede llamar...
+<i>- Mathilde, ¿qué es eso?</i>
+
+418
+00:41:20,595 --> 00:41:24,476
+<i>- ¿Te lastimaste Mathilde?
+- No es mía.</i>
+
+419
+00:41:24,477 --> 00:41:30,310
+- ¿Qué pasa?
+<i>- Mathilde, espera aquí con Janne.</i>
+
+420
+00:41:34,283 --> 00:41:37,443
+<i>- ¿Hola?</i>
+- ¿Qué le pasó a Mathilde?
+
+421
+00:41:37,444 --> 00:41:42,317
+No lo sé, pero ella tiene sangre
+en sus manos y en la blusa.
+
+422
+00:41:46,890 --> 00:41:49,690
+- Ve a ver a Oliver.
+- ¿Quién?
+
+423
+00:41:49,691 --> 00:41:55,244
+- Su hermanito. Ve a verlo.
+<i>- Sí, por supuesto.</i>
+
+424
+00:42:00,617 --> 00:42:04,018
+- ¿Lo has encontrado?
+<i>- El apartamento está destrozado.</i>
+
+425
+00:42:04,019 --> 00:42:07,740
+- ¡Debes encontrar a Oliver!
+<i>- ¿Dónde dices que está?</i>
+
+426
+00:42:07,741 --> 00:42:11,773
+No lo sé.
+Mira a tu alrededor, diablos.
+
+427
+00:42:13,464 --> 00:42:16,455
+<i>La cocina...</i>
+
+428
+00:42:22,108 --> 00:42:25,940
+<i>Y aquí... un dormitorio.</i>
+
+429
+00:42:34,515 --> 00:42:37,667
+<i>Aquí debe estar.</i>
+
+430
+00:42:42,199 --> 00:42:45,151
+¿Lo encontraste?
+
+431
+00:42:46,241 --> 00:42:49,473
+¿Hola?
+Tim, ¿estás ahí?
+
+432
+00:42:50,083 --> 00:42:53,195
+<i>El bebé está muerto.</i>
+
+433
+00:42:58,368 --> 00:43:02,369
+<i>- Tengo que salir...</i>
+- ¿Cómo sabes que está muerto?
+
+434
+00:43:02,370 --> 00:43:05,531
+<i>Pude ver eso.</i>
+
+435
+00:43:05,532 --> 00:43:10,845
+Vuelve a verlo.
+Comprueba si respira.
+
+436
+00:43:14,056 --> 00:43:18,409
+¿Estás revisando?
+¿Estás revisando?
+
+437
+00:43:18,979 --> 00:43:22,700
+- Comprueba si respira.
+<i>- ¡Está muerto, te digo!</i>
+
+438
+00:43:22,701 --> 00:43:25,902
+<i>Fue cortado.</i>
+
+439
+00:43:25,903 --> 00:43:28,854
+<i>Está completamente abierto.</i>
+
+440
+00:43:30,025 --> 00:43:34,106
+<i>Tengo que...
+¡No, ella no puede entrar aquí!</i>
+
+441
+00:43:34,107 --> 00:43:36,738
+<i>¡Oliver!</i>
+
+442
+00:44:14,969 --> 00:44:19,491
+Asger. Hay un cambio de turno.
+
+443
+00:44:19,492 --> 00:44:24,644
+La guardia nocturna está aquí.
+Están libres.
+
+444
+00:44:26,295 --> 00:44:29,856
+- Me quedaré un poco más.
+- ¿Está todo bien?
+
+445
+00:44:29,857 --> 00:44:33,049
+- Sí, sí.
+- Bien.
+
+446
+00:44:33,979 --> 00:44:38,652
+Buena suerte con lo de mañana.
+
+447
+00:45:40,815 --> 00:45:45,777
+<i>- No deberías llamarme.</i>
+- Sé lo que le hiciste a Oliver.
+
+448
+00:45:45,778 --> 00:45:48,017
+¿Cuál es tu plan?
+
+449
+00:45:48,018 --> 00:45:52,137
+¿Iben también debe morir?
+¿Eso es todo?
+
+450
+00:45:52,138 --> 00:45:55,297
+<i>- No debes llamarme de nuevo.</i>
+- Mathilde lo ha visto.
+
+451
+00:45:55,298 --> 00:45:59,088
+Ella ha visto lo que
+le hiciste a Oliver.
+
+452
+00:46:00,578 --> 00:46:04,737
+<i>- No debía entrar allí.</i>
+- ¿Qué pensabas?
+
+453
+00:46:04,738 --> 00:46:10,688
+La dejaste sola en casa.
+¿Qué esperabas que hiciera?
+
+454
+00:46:11,178 --> 00:46:16,057
+<i>- No debía entrar allí.</i>
+- La sangre de Oliver estaba en su ropa.
+
+455
+00:46:16,058 --> 00:46:21,928
+Michael, para esto.
+Detente aquí mismo. Ahora mismo.
+
+456
+00:46:22,379 --> 00:46:27,009
+Para el coche y dime dónde estás,
+entonces enviaré una patrulla.
+
+457
+00:46:29,059 --> 00:46:33,489
+<i>- No puedo.</i>
+- Vas a hacerlo.
+
+458
+00:46:34,899 --> 00:46:38,249
+<i>- Si hago eso...</i>
+- Sí.
+
+459
+00:46:40,099 --> 00:46:43,889
+<i>- ¿Qué pasará?</i>
+- ¿Contigo?
+
+460
+00:46:45,179 --> 00:46:48,129
+Vas a la cárcel.
+
+461
+00:46:50,899 --> 00:46:53,858
+<i>- No es posible.</i>
+- ¿No es posible?
+
+462
+00:46:53,859 --> 00:46:58,218
+¿Qué quieres que diga, Michael?
+¿Qué es malo para ti?
+
+463
+00:46:58,219 --> 00:47:03,178
+¿Que eres una víctima?
+No eres una víctima, Michael.
+
+464
+00:47:03,179 --> 00:47:06,058
+Oliver es una víctima.
+
+465
+00:47:06,059 --> 00:47:10,858
+Mathilde es una víctima.
+Iben es una víctima. Tú no.
+
+466
+00:47:10,859 --> 00:47:15,169
+¡Tendrás una puta bala en la frente!
+¿Puedes entenderlo?
+
+467
+00:47:35,500 --> 00:47:39,010
+<i>Aquí Michael.
+Deja un mensaje.</i>
+
+468
+00:47:39,740 --> 00:47:43,659
+- ¿Rashid?
+<i>- Estoy en Strandlodsvej.</i>
+
+469
+00:47:43,660 --> 00:47:46,939
+<i>- Es una casa unifamiliar de color marrón.</i>
+- Sal del auto.
+
+470
+00:47:46,940 --> 00:47:50,659
+<i>No parece que haya
+alguien en la casa.</i>
+
+471
+00:47:50,660 --> 00:47:55,610
+Debes entrar.
+Sólo haz lo que te pido.
+
+472
+00:47:56,260 --> 00:48:01,370
+<i>- Entonces dime por qué estoy aquí.</i>
+- Lo haré una vez que vayas.
+
+473
+00:48:03,700 --> 00:48:06,859
+- ¿Estás escuchando?
+<i>- Sí, escucho.</i>
+
+474
+00:48:06,860 --> 00:48:11,459
+Michael Berg, que vive ahí,
+mató a su hijo. Lo ha cortado.
+
+475
+00:48:11,460 --> 00:48:14,939
+Y ahora ha secuestrado a la ex esposa.
+
+476
+00:48:14,940 --> 00:48:19,139
+Se dirigen hacia el norte.
+Necesitamos saber hacia dónde se dirige.
+
+477
+00:48:19,140 --> 00:48:22,499
+<i>¿Te han dado la tarea
+en la central de emergencias?</i>
+
+478
+00:48:22,500 --> 00:48:27,570
+- No, la he tomado.
+<i>- Claro.</i>
+
+479
+00:48:36,340 --> 00:48:40,650
+<i>¿Hola? ¡Es la policía!</i>
+
+480
+00:48:41,500 --> 00:48:44,730
+<i>¿Hola? ¡Es la policía!</i>
+
+481
+00:48:45,180 --> 00:48:48,180
+¿Qué está sucediendo?
+¿Qué pasa, Rashid?
+
+482
+00:48:48,181 --> 00:48:52,331
+La puerta está abierta.
+Debía estar apurado.
+
+483
+00:48:53,621 --> 00:48:56,571
+¿Qué puedes ver?
+
+484
+00:48:57,261 --> 00:49:02,251
+<i>No mucho.
+La casa parece vacía.</i>
+
+485
+00:49:06,741 --> 00:49:09,411
+<i>Un colchón.</i>
+
+486
+00:49:09,861 --> 00:49:14,131
+<i>Un juguete... sin abrir.</i>
+
+487
+00:49:16,461 --> 00:49:21,100
+<i>Aquí tenemos algo.
+Muchos papeles en el suelo.</i>
+
+488
+00:49:21,101 --> 00:49:26,100
+Mira todo sobre Nordsjælland.
+Una libreta de direcciones, facturas.
+
+489
+00:49:26,101 --> 00:49:29,820
+<i>No puedo, Asger.
+¿Tienes idea de todo lo que hay aquí?</i>
+
+490
+00:49:29,821 --> 00:49:33,460
+- Haz lo que te digo.
+<i>- Tomará varias horas.</i>
+
+491
+00:49:33,461 --> 00:49:37,540
+<i>No tienes idea de cuántas
+cosas hay entre todos esos papeles.</i>
+
+492
+00:49:37,541 --> 00:49:40,980
+<i>¿Debería leer papeles
+mientras él mata a la chica?</i>
+
+493
+00:49:40,981 --> 00:49:44,620
+- ¿Qué sugieres?
+<i>- No sugiero nada.</i>
+
+494
+00:49:44,621 --> 00:49:48,900
+<i>- Pero el tiempo corre.</i>
+- Entonces, empieza.
+
+495
+00:49:48,901 --> 00:49:53,411
+- ¿Entendido?
+<i>- Sí, entendido...</i>
+
+496
+00:50:37,702 --> 00:50:40,252
+¿Iben?
+
+497
+00:50:41,102 --> 00:50:45,301
+- Iben, ahora escucha atentamente.
+<i>- ¿Es Mathilde?</i>
+
+498
+00:50:45,302 --> 00:50:49,292
+- Iben, ¿estás ahí?
+<i>- Hola, cariño.</i>
+
+499
+00:50:49,742 --> 00:50:54,061
+- Iben, ¿usas el cinturón de seguridad?
+<i>- No.</i>
+
+500
+00:50:54,062 --> 00:50:57,821
+- ¿Michael tiene cinturón?
+<i>- No.</i>
+
+501
+00:50:57,822 --> 00:51:01,092
+Bien. Ponte el cinturón.
+
+502
+00:51:05,542 --> 00:51:09,061
+- ¿Te pusiste el cinturón de seguridad?
+<i>- Sí.</i>
+
+503
+00:51:09,062 --> 00:51:13,342
+Bueno. Tira del freno de mano.
+Todo lo que puedas.
+
+504
+00:51:13,343 --> 00:51:15,693
+<i>¿Qué demonios estás haciendo?</i>
+
+505
+00:51:30,263 --> 00:51:34,773
+<i>Has llamado a Iben Østergård...</i>
+
+506
+00:51:54,783 --> 00:51:58,222
+- Sí.
+<i>- Hola. He chocado mi bicicleta.</i>
+
+507
+00:51:58,223 --> 00:52:02,773
+<i>- Me he roto completamente la rodilla.</i>
+- No tengo tiempo ahora.
+
+508
+00:52:13,223 --> 00:52:17,462
+- Sí.
+<i>- Hola. He chocado mi bicicleta.</i>
+
+509
+00:52:17,463 --> 00:52:20,902
+- Por favor, llama más tarde.
+<i>- ¿Eres tú otra vez?</i>
+
+510
+00:52:20,903 --> 00:52:25,183
+Cuando llamas al 112, cae en la misma
+persona y no puedo hablar ahora.
+
+511
+00:52:25,184 --> 00:52:29,423
+<i>- Envía una ambulancia.</i>
+- ¿Por tu rodilla golpeada?
+
+512
+00:52:29,424 --> 00:52:34,174
+Toma un taxi a casa y no andes en
+bicicleta cuando estás borracha.
+
+513
+00:52:50,944 --> 00:52:53,183
+¿Sí?
+
+514
+00:52:53,184 --> 00:52:55,463
+¿Iben?
+
+515
+00:52:55,464 --> 00:52:58,223
+<i>Hice lo que me pediste.</i>
+
+516
+00:52:58,224 --> 00:53:01,743
+<i>No funcionó.
+No puedo salir.</i>
+
+517
+00:53:01,744 --> 00:53:05,974
+- ¿Dónde estás?
+<i>- No puedo ver nada.</i>
+
+518
+00:53:07,624 --> 00:53:11,534
+- ¿Estás en la camioneta?
+- Sí.
+
+519
+00:53:13,024 --> 00:53:17,023
+Veo que van hacia Helsingør.
+¿Sabes a dónde se dirigen?
+
+520
+00:53:17,024 --> 00:53:21,743
+<i>- No quiero estar encerrada.</i>
+- ¿Sabes a dónde se dirigen?
+
+521
+00:53:21,744 --> 00:53:27,423
+- Iben, te sacaremos.
+<i>- No quiero estar encerrada.</i>
+
+522
+00:53:27,424 --> 00:53:32,103
+<i>- Moriré.</i>
+- Nadie morirá.
+
+523
+00:53:32,104 --> 00:53:36,103
+<i>Debes ayudarme. Sólo quiero
+regresar con Thilde y Oliver.</i>
+
+524
+00:53:36,104 --> 00:53:39,144
+- Estoy en ello.
+<i>- No, no de nuevo.</i>
+
+525
+00:53:39,145 --> 00:53:44,655
+Iben, quiero ayudarte.
+Ahora debo cortar.
+
+526
+00:53:46,785 --> 00:53:50,504
+<i>- Central de emergencias Copenhague.</i>
+- Es Asger, 112 Øst.
+
+527
+00:53:50,505 --> 00:53:56,984
+<i>- ¿Asger? ¿Sigues en el trabajo?</i>
+- Debía contactar a Nordsjælland.
+
+528
+00:53:56,985 --> 00:54:01,224
+<i>- Dije que deberías irte a casa.</i>
+- Sí, pero no puedo.
+
+529
+00:54:01,225 --> 00:54:04,575
+¿Qué demonios estás...?
+
+530
+00:54:09,705 --> 00:54:13,584
+<i>- Central de emergencias Nordsjælland.</i>
+- Es Asger, 112 Øst.
+
+531
+00:54:13,585 --> 00:54:18,664
+<i>- Hola. ¿Algo nuevo?</i>
+- Iben está atrás en la camioneta.
+
+532
+00:54:18,665 --> 00:54:22,744
+<i>- ¿Tienes una posición?</i>
+- Cerca de Elsinore.
+
+533
+00:54:22,745 --> 00:54:26,344
+- En algún lugar al suroeste de Helsingør
+<i>- Entendido.</i>
+
+534
+00:54:26,345 --> 00:54:31,344
+<i>Estoy enviando mis coches allí,
+pero necesito una ubicación más precisa.</i>
+
+535
+00:54:31,345 --> 00:54:34,104
+Lo arreglaré. Envía tus patrullas.
+
+536
+00:54:34,105 --> 00:54:37,224
+<i>- ¿Que harás?</i>
+- La sacaré de la camioneta.
+
+537
+00:54:37,225 --> 00:54:40,855
+Iben, ¿estás ahí?
+
+538
+00:54:41,305 --> 00:54:44,664
+- Volví.
+<i>- No hagas eso de nuevo.</i>
+
+539
+00:54:44,665 --> 00:54:50,145
+- No, no lo haré.
+<i>- Quiero irme a casa con Thilde y Oliver.</i>
+
+540
+00:54:50,146 --> 00:54:54,785
+<i>No deberían estar solos.
+No entiendo por qué hace esto.</i>
+
+541
+00:54:54,786 --> 00:54:59,585
+¿Iben? ¡Iben!
+Ahora escúchame.
+
+542
+00:54:59,586 --> 00:55:02,705
+Debes encontrar algo
+para defenderte.
+
+543
+00:55:02,706 --> 00:55:06,105
+La ayuda está en camino
+pero debemos tener un plan B.
+
+544
+00:55:06,106 --> 00:55:10,265
+<i>- Moriré.</i>
+- No, no pasará. Escucha.
+
+545
+00:55:10,266 --> 00:55:16,376
+Si se detiene antes que te encontremos,
+debes ser capaz de defenderte.
+
+546
+00:55:16,826 --> 00:55:22,505
+- ¿Por qué Michael tiene camioneta?
+<i>- Es albañil.</i>
+
+547
+00:55:22,506 --> 00:55:27,105
+- Entonces debe tener herramientas.
+<i>- No lo sé.</i>
+
+548
+00:55:27,106 --> 00:55:31,336
+- Intenta mirar a tu alrededor.
+<i>- No puedo ver nada.</i>
+
+549
+00:55:32,266 --> 00:55:35,016
+Tantea.
+
+550
+00:55:43,066 --> 00:55:47,225
+- ¿Encontraste algo?
+<i>- Una caja de cartón, pesada.</i>
+
+551
+00:55:47,226 --> 00:55:51,376
+Bueno. ¿Qué hay ahí?
+
+552
+00:55:51,826 --> 00:55:54,345
+<i>Parecen ladrillos...</i>
+
+553
+00:55:54,346 --> 00:55:58,216
+Ladrillos, eso es bueno.
+¿Puedes tomar uno de ellos?
+
+554
+00:55:58,666 --> 00:56:00,825
+Toma uno de ellos.
+
+555
+00:56:00,826 --> 00:56:03,946
+<i>- Sí, tengo uno.</i>
+- Bien. Escucha cuidadosamente.
+
+556
+00:56:03,947 --> 00:56:06,906
+Si él se detiene, párate.
+
+557
+00:56:06,907 --> 00:56:11,626
+Cuando él abra la puerta,
+lo golpeas con toda tu fuerza.
+
+558
+00:56:11,627 --> 00:56:14,346
+<i>- No puedo.</i>
+- Sí, puedes.
+
+559
+00:56:14,347 --> 00:56:17,306
+Una vez que lo golpees,
+toma el cuchillo.
+
+560
+00:56:17,307 --> 00:56:21,226
+Entonces me dices dónde estás
+y te mandaré un coche.
+
+561
+00:56:21,227 --> 00:56:24,106
+<i>- No puedo.</i>
+- Sí, puedes. Iben.
+
+562
+00:56:24,107 --> 00:56:28,266
+Respira.
+Respira profundamente. Ahora.
+
+563
+00:56:28,267 --> 00:56:30,857
+Así...
+
+564
+00:56:31,747 --> 00:56:35,377
+- ¿Iben?
+<i>- No puedo.</i>
+
+565
+00:56:36,827 --> 00:56:39,426
+<i>- Me estoy muriendo.</i>
+- No te estás muriendo.
+
+566
+00:56:39,427 --> 00:56:43,826
+Respira tranquilamente conmigo.
+Ahora.
+
+567
+00:56:43,827 --> 00:56:46,777
+Respira profundamente, Iben.
+
+568
+00:56:49,867 --> 00:56:52,897
+Iben, ¿cuál es tu comida favorita?
+
+569
+00:56:54,747 --> 00:56:58,506
+- ¿Cuál es tu comida favorita?
+<i>- Medister.</i>
+
+570
+00:56:58,507 --> 00:57:04,226
+- ¿Medister? ¿Te gusta?
+<i>- Sí, ¿tú no?</i>
+
+571
+00:57:04,227 --> 00:57:09,026
+No, no como cerdo.
+¿Qué más te gusta?
+
+572
+00:57:09,027 --> 00:57:12,226
+<i>- ¿Eres musulmán?</i>
+- No, no es por eso.
+
+573
+00:57:12,227 --> 00:57:15,507
+¿Qué te gusta hacer
+en tu tiempo libre?
+
+574
+00:57:15,508 --> 00:57:20,427
+<i>Estar con Thilde y Oliver.
+Pero Michael...</i>
+
+575
+00:57:20,428 --> 00:57:24,947
+¿Qué haces cuando estás con
+Mathilde y Oliver?
+
+576
+00:57:24,948 --> 00:57:28,378
+¿Qué es realmente bueno hacer?
+
+577
+00:57:28,828 --> 00:57:32,107
+<i>Nos gusta Planeta Azul.</i>
+
+578
+00:57:32,108 --> 00:57:36,587
+Es ese acuario fuera
+de Amager, ¿verdad?
+
+579
+00:57:36,588 --> 00:57:42,147
+<i>- ¿No has estado allí?</i>
+- No. Cuéntame sobre Planeta Azul.
+
+580
+00:57:42,148 --> 00:57:44,307
+¿Es bueno?
+
+581
+00:57:44,308 --> 00:57:47,947
+<i>A Mathilde le gustan más las tortugas.</i>
+
+582
+00:57:47,948 --> 00:57:52,587
+<i>Ella siempre camina hacia las tortugas,
+sin mirar los tiburones.</i>
+
+583
+00:57:52,588 --> 00:57:56,538
+¿Y qué es lo que más te gusta a ti?
+¿Los tiburones?
+
+584
+00:57:59,068 --> 00:58:02,898
+<i>Me gustan todos.</i>
+
+585
+00:58:04,388 --> 00:58:08,467
+<i>Usualmente voy detrás de Mathilde
+con Oliver en el cochecito.</i>
+
+586
+00:58:08,468 --> 00:58:13,138
+<i>- Entonces apenas puedo ver y sentir.</i>
+- ¿Sentir qué?
+
+587
+00:58:13,948 --> 00:58:18,618
+<i>- Parece tan extraño.</i>
+- ¿Qué te parece extraño?
+
+588
+00:58:20,148 --> 00:58:23,098
+<i>Bajo el agua...</i>
+
+589
+00:58:24,388 --> 00:58:27,419
+<i>Tan calmo.</i>
+
+590
+00:58:28,429 --> 00:58:31,548
+<i>Sin perturbaciones.</i>
+
+591
+00:58:31,549 --> 00:58:37,659
+<i>En el agua las cosas se mueven lentamente.
+En silencio.</i>
+
+592
+00:58:38,109 --> 00:58:41,659
+<i>Un gran silencio azul.</i>
+
+593
+00:58:43,269 --> 00:58:45,539
+Sí.
+
+594
+00:58:48,189 --> 00:58:53,108
+<i>- No sé cuál es tu nombre.</i>
+- Mi nombre es Asger.
+
+595
+00:58:53,109 --> 00:58:56,419
+<i>Me gustas, Asger.</i>
+
+596
+00:58:59,149 --> 00:59:02,539
+También me gustas, Iben.
+
+597
+00:59:18,189 --> 00:59:21,459
+<i>¿Te gustaría ir?</i>
+
+598
+00:59:23,069 --> 00:59:26,339
+- ¿A dónde?
+<i>- A Planeta Azul.</i>
+
+599
+00:59:28,749 --> 00:59:31,699
+Me gustaría.
+
+600
+00:59:36,949 --> 00:59:40,309
+<i>- Se detiene ahora.</i>
+- Está bien. ¿Tienes el ladrillo?
+
+601
+00:59:40,310 --> 00:59:43,429
+<i>- Sí.</i>
+- Bien. Cálmate, Iben.
+
+602
+00:59:43,430 --> 00:59:46,949
+Tómalo con calma y tranquilidad.
+Estoy contigo.
+
+603
+00:59:46,950 --> 00:59:52,269
+Pon el teléfono en tu bolsillo.
+Cuando abra la puerta, lo golpeas.
+
+604
+00:59:52,270 --> 00:59:58,149
+Él se lo merece.
+Sólo pon el teléfono en tu bolsillo.
+
+605
+00:59:58,150 --> 01:00:03,629
+<i>- Él no me entiende.</i>
+- Iben pon el teléfono en tu bolsillo.
+
+606
+01:00:03,630 --> 01:00:09,549
+<i>Oliver está bien. Ahora está mejor.
+Ya no grita.</i>
+
+607
+01:00:09,550 --> 01:00:12,500
+¿De qué estás hablando?
+
+608
+01:00:14,910 --> 01:00:20,229
+<i>- Las serpientes.</i>
+- ¿Las serpientes? ¿Qué tipo de serpientes?
+
+609
+01:00:20,230 --> 01:00:23,300
+<i>Él tenía mucho dolor.</i>
+
+610
+01:00:25,190 --> 01:00:28,140
+<i>En su estómago.</i>
+
+611
+01:00:30,430 --> 01:00:35,220
+<i>Gritaba y gritaba porque
+tenía serpientes en el estómago.</i>
+
+612
+01:00:40,230 --> 01:00:43,429
+<i>- Pero yo se las saqué.</i>
+- ¿Tú qué?
+
+613
+01:00:43,430 --> 01:00:47,980
+<i>Está mucho mejor ahora.
+Ya no grita.</i>
+
+614
+01:00:56,391 --> 01:01:00,870
+<i>Está bien, ¿verdad? ¿Asger?</i>
+
+615
+01:01:00,871 --> 01:01:04,630
+<i>Está bien, ¿verdad?
+Dime que está bien.</i>
+
+616
+01:01:04,631 --> 01:01:10,381
+<i>- Está bien, Iben. Ahora con calma.
+- ¡Vete! ¡Vete!</i>
+
+617
+01:02:12,672 --> 01:02:15,262
+<i>¿Hola?</i>
+
+618
+01:02:16,272 --> 01:02:20,582
+<i>¿Hola?
+Asger, ¿estás ahí?</i>
+
+619
+01:02:24,232 --> 01:02:29,071
+<i>Creo que hay algo
+mal con mi teléfono. Espera.</i>
+
+620
+01:02:29,072 --> 01:02:31,711
+<i>- ¿Me puedes oír?</i>
+- Sí.
+
+621
+01:02:31,712 --> 01:02:34,982
+<i>Escucha esto.</i>
+
+622
+01:02:35,712 --> 01:02:41,671
+<i>Han estado en la corte. Michael
+recibió muchas cartas de un abogado.</i>
+
+623
+01:02:41,672 --> 01:02:46,951
+<i>Ha perdido el derecho de ver a sus hijos.
+Tiene antecedentes penales.</i>
+
+624
+01:02:46,952 --> 01:02:52,622
+<i>Y sus convicciones...
+No dice nada sobre eso.</i>
+
+625
+01:02:53,072 --> 01:02:55,191
+<i>- ¿Asger?</i>
+- Sí, sí.
+
+626
+01:02:55,192 --> 01:02:58,902
+<i>Lo siento. Lo llevaré.</i>
+
+627
+01:02:59,512 --> 01:03:05,351
+<i>Hay algo sobre un centro psiquiátrico.</i>
+
+628
+01:03:05,352 --> 01:03:10,831
+<i>- Ella ha sido hospitalizada en Helsingør.</i>
+- ¿Helsingør?
+
+629
+01:03:10,832 --> 01:03:15,782
+<i>Sí, exactamente.
+Clínica Psiquiátrica Nordsjælland.</i>
+
+630
+01:03:18,032 --> 01:03:21,671
+<i>- ¿Te sirve para algo?</i>
+- Encerrada.
+
+631
+01:03:21,672 --> 01:03:25,112
+<i>- ¿Qué dices?</i>
+- Ella no quería estar encerrada.
+
+632
+01:03:25,113 --> 01:03:28,783
+<i>No llego a entender
+a qué te refieres.</i>
+
+633
+01:03:29,193 --> 01:03:32,943
+<i>¿Asger? ¿Hola?</i>
+
+634
+01:04:18,153 --> 01:04:22,632
+¿Michael? ¿Michael?
+
+635
+01:04:22,633 --> 01:04:26,583
+<i>- ¿Hola?</i>
+- ¿Dónde estás?
+
+636
+01:04:27,913 --> 01:04:32,072
+¿Michael? ¿Conoces la
+Clínica Psiquiátrica Nordsjælland?
+
+637
+01:04:32,073 --> 01:04:35,512
+<i>- ¿Con quién estoy hablando?</i>
+- Asger de la policía.
+
+638
+01:04:35,513 --> 01:04:39,953
+¿Conoces la Clínica Psiquiátrica
+Nordsjælland en Helsingør?
+
+639
+01:04:39,954 --> 01:04:44,024
+- ¿Dónde está Iben?
+<i>- No lo sé.</i>
+
+640
+01:04:44,714 --> 01:04:47,904
+<i>Creo que ella me golpeó.</i>
+
+641
+01:04:48,274 --> 01:04:53,153
+- Bien, mando policías y una ambulancia.
+<i>- Sin policías.</i>
+
+642
+01:04:53,154 --> 01:04:56,673
+- Tengo que notificarlo.
+<i>- ¡No hice nada!</i>
+
+643
+01:04:56,674 --> 01:05:00,224
+Lo sé. Lo sé.
+
+644
+01:05:03,754 --> 01:05:06,913
+¿Por qué no dijiste nada?
+
+645
+01:05:06,914 --> 01:05:11,153
+Deberías haber llamado a la policía
+y cuidaríamos de Iben.
+
+646
+01:05:11,154 --> 01:05:15,633
+<i>- ¿Entonces pueden ayudarla?</i>
+- Sí, eso es lo que haremos.
+
+647
+01:05:15,634 --> 01:05:20,713
+<i>Nadie puede ayudarla.
+Ya lo intenté.</i>
+
+648
+01:05:20,714 --> 01:05:25,633
+<i>Médicos, abogados, el municipio.
+Nadie puede ayudarla.</i>
+
+649
+01:05:25,634 --> 01:05:28,953
+Estoy tratando de ayudar...
+
+650
+01:05:28,954 --> 01:05:34,304
+<i>¡Váyanse todos ustedes a la mierda!
+¡Mi niño está muerto!</i>
+
+651
+01:05:52,275 --> 01:05:56,665
+<i>Cuando... cuando vi a Oliver.</i>
+
+652
+01:05:57,395 --> 01:06:00,705
+<i>Tuve que hacerlo yo mismo.</i>
+
+653
+01:06:03,115 --> 01:06:08,025
+<i>Sólo quería cerrar
+la puerta y arreglarlo todo.</i>
+
+654
+01:06:16,515 --> 01:06:20,505
+<i>Sólo quería ayudar a Iben, pero...</i>
+
+655
+01:06:23,875 --> 01:06:27,825
+¿Qué estás haciendo?
+
+656
+01:06:28,995 --> 01:06:33,434
+<i>Me voy a casa con Mathilde.
+Nunca debí haberme ido.</i>
+
+657
+01:06:33,435 --> 01:06:36,625
+La policía está con ella.
+
+658
+01:06:39,475 --> 01:06:43,345
+<i>Le dije que no debía entrar allí.</i>
+
+659
+01:07:00,235 --> 01:07:03,314
+<i>- Ahora me voy.</i>
+- ¿Qué hay de Iben?
+
+660
+01:07:03,315 --> 01:07:08,946
+<i>- No sé dónde está.</i>
+- ¿Ella puede hacerse daño?
+
+661
+01:07:09,916 --> 01:07:12,555
+<i>Escucha...</i>
+
+662
+01:07:12,556 --> 01:07:17,586
+<i>Ella ni siquiera
+sabe lo que ha hecho.</i>
+
+663
+01:07:18,476 --> 01:07:23,906
+<i>Piensa...
+Cree que ayudó a Oliver.</i>
+
+664
+01:07:25,836 --> 01:07:29,715
+<i>No pude decirle.</i>
+
+665
+01:07:29,716 --> 01:07:32,026
+No.
+
+666
+01:07:32,836 --> 01:07:34,746
+No.
+
+667
+01:08:15,876 --> 01:08:20,355
+<i>Has llamado a Iben Østergård.
+Ahora no puedo atender...</i>
+
+668
+01:08:20,356 --> 01:08:27,747
+<i>pero deja un mensaje o llama más tarde,
+o envía un mensaje de texto. Adiós.</i>
+
+669
+01:09:38,118 --> 01:09:41,957
+<i>- ¿Hola?</i>
+- Hola, Rashid.
+
+670
+01:09:41,958 --> 01:09:45,708
+<i>- ¿Los encontraste?</i>
+- Sí.
+
+671
+01:09:48,878 --> 01:09:53,437
+- ¿Estás en casa?
+<i>- No, estoy sentado en mi coche.</i>
+
+672
+01:09:53,438 --> 01:09:58,508
+<i>- ¿Hay algo más que necesites?</i>
+- Sólo vete a casa.
+
+673
+01:09:58,958 --> 01:10:03,828
+<i>- ¿Qué va a suceder con ella?</i>
+- Sólo vete a casa, Rashid.
+
+674
+01:10:05,718 --> 01:10:09,428
+<i>Cierto... Bien.</i>
+
+675
+01:10:13,598 --> 01:10:18,389
+- Gracias por tu ayuda, compañero.
+<i>- Claro. Siempre que lo precises.</i>
+
+676
+01:10:18,919 --> 01:10:22,750
+<i>Nos vemos mañana en la corte.</i>
+
+677
+01:10:25,080 --> 01:10:28,760
+No mientas mañana si
+no te hace sentir bien.
+
+678
+01:10:28,761 --> 01:10:33,081
+<i>- ¿A qué te refieres?</i>
+- En la corte mañana.
+
+679
+01:10:33,082 --> 01:10:38,322
+- No deberías mentir por mi bien.
+<i>- Seguiremos nuestra historia.</i>
+
+680
+01:10:38,323 --> 01:10:41,554
+<i>Eso es lo que hemos acordado.</i>
+
+681
+01:10:46,245 --> 01:10:50,245
+Soy yo quien está acusado.
+
+682
+01:10:50,246 --> 01:10:55,886
+- Yo disparé. Eres el testigo.
+<i>- ¡He mentido por ti!</i>
+
+683
+01:10:55,887 --> 01:11:01,638
+<i>Supongo que no puedo sólo
+cambiar mis declaraciones, ¿no?</i>
+
+684
+01:11:10,490 --> 01:11:14,521
+<i>Me estoy yendo ahora.
+También debes ir a casa.</i>
+
+685
+01:11:14,971 --> 01:11:19,722
+<i>Ve a casa con Patricia
+y duerme un poco, ¿sí?</i>
+
+686
+01:11:24,613 --> 01:11:27,364
+<i>Nos vemos mañana.</i>
+
+687
+01:12:00,901 --> 01:12:04,341
+- ¿Asger? ¿Asger?
+- Sí.
+
+688
+01:12:04,342 --> 01:12:08,542
+Hemos recibido una llamada
+de alguien que quiere hablar contigo.
+
+689
+01:12:08,543 --> 01:12:13,063
+Dice que ya hablaron.
+Su nombre es Iben. ¿Te dice algo?
+
+690
+01:12:13,064 --> 01:12:16,815
+- Sí.
+- ¿Qué pasó?
+
+691
+01:12:18,305 --> 01:12:22,336
+Yo...
+La liberé.
+
+692
+01:12:35,989 --> 01:12:38,739
+Un momento.
+
+693
+01:12:52,392 --> 01:12:55,943
+<i>- ¿Eres tú, Asger?</i>
+- Sí.
+
+694
+01:12:56,753 --> 01:12:59,504
+Estoy aquí.
+
+695
+01:13:05,235 --> 01:13:09,306
+<i>He matado a Oliver, ¿no es así?</i>
+
+696
+01:13:12,397 --> 01:13:16,308
+- ¿Dónde estás, Iben?
+<i>- No debía mentir.</i>
+
+697
+01:13:20,278 --> 01:13:24,709
+- Dime dónde estás.
+<i>- No debía mentir.</i>
+
+698
+01:13:27,120 --> 01:13:31,031
+<i>Lo he matado, ¿verdad?</i>
+
+699
+01:13:35,522 --> 01:13:37,872
+Iben.
+
+700
+01:13:41,723 --> 01:13:44,474
+No tenías esa intención.
+
+701
+01:13:46,084 --> 01:13:50,395
+Dime dónde estás, entonces puedo
+enviar a alguien para que te ayude.
+
+702
+01:13:53,806 --> 01:13:58,206
+<i>- Oliver.</i>
+- Iben, ¿dónde estás?
+
+703
+01:13:58,207 --> 01:14:01,357
+<i>Tengo sangre en mis manos.</i>
+
+704
+01:14:04,088 --> 01:14:08,368
+<i>No lo sabía, pero ahora veo
+que tengo sangre en mis manos.</i>
+
+705
+01:14:08,369 --> 01:14:11,239
+¿Qué más puedes ver?
+
+706
+01:14:13,050 --> 01:14:17,481
+Parece que hay coches
+cerca de ti. ¿Sí?
+
+707
+01:14:19,011 --> 01:14:22,491
+Iben, ¿hay coches cerca de ti?
+
+708
+01:14:22,492 --> 01:14:25,532
+<i>Están allá abajo.</i>
+
+709
+01:14:25,533 --> 01:14:28,083
+¿Los coches?
+
+710
+01:14:29,453 --> 01:14:32,524
+¿Estás en un puente?
+
+711
+01:14:33,654 --> 01:14:36,214
+Iben, ¿estás en un puente?
+
+712
+01:14:36,215 --> 01:14:38,574
+<i>- Ahora voy a saltar.</i>
+- No.
+
+713
+01:14:38,575 --> 01:14:42,655
+Olvidémonos de eso.
+Tómalo con calma y tranquilidad.
+
+714
+01:14:42,656 --> 01:14:46,207
+Central de emergencias Nordsjælland,
+ahora.
+
+715
+01:14:46,577 --> 01:14:49,577
+Iben, ahora escucha.
+
+716
+01:14:49,578 --> 01:14:53,178
+<i>- Diles que no fue a propósito.</i>
+- Lo sé.
+
+717
+01:14:53,179 --> 01:14:58,139
+<i>Dile a Michael y Mathilde
+que no fue a propósito.</i>
+
+718
+01:14:58,140 --> 01:15:02,580
+Iben está en un puente, salida 19.
+Está a punto de saltar.
+
+719
+01:15:02,581 --> 01:15:07,341
+- ¿Iben? ¿Iben?
+<i>- ¿Les vas a decir?</i>
+
+720
+01:15:07,342 --> 01:15:11,542
+<i>- Que no fue a propósito.</i>
+- Lo saben.
+
+721
+01:15:11,543 --> 01:15:16,174
+Michael lo sabe.
+Sólo quería ayudarte.
+
+722
+01:15:17,144 --> 01:15:20,904
+¿Verdad? Intentó ayudarte.
+
+723
+01:15:20,905 --> 01:15:24,945
+Todos queremos ayudarte.
+
+724
+01:15:24,946 --> 01:15:29,546
+<i>- Pero dijiste...</i>
+- Estaba equivocado, Iben. Me equivoqué.
+
+725
+01:15:29,547 --> 01:15:35,298
+¿Verdad? Yo me equivoqué. Es mi
+culpa que estés parada en el puente.
+
+726
+01:15:35,828 --> 01:15:39,508
+No hagas nada estúpido.
+¿Me oyes?
+
+727
+01:15:39,509 --> 01:15:42,628
+Iben, habla conmigo.
+
+728
+01:15:42,629 --> 01:15:44,549
+¿Iben?
+
+729
+01:15:44,550 --> 01:15:48,670
+He matado a un hombre.
+¿Me oyes?
+
+730
+01:15:48,671 --> 01:15:51,581
+He matado a un hombre.
+
+731
+01:15:54,512 --> 01:15:56,991
+Su nombre era Josef.
+
+732
+01:15:56,992 --> 01:16:01,503
+Un joven.
+Un chico de casi 19 años.
+
+733
+01:16:03,394 --> 01:16:05,944
+<i>¿Por qué?</i>
+
+734
+01:16:08,395 --> 01:16:12,675
+Porque... yo podía.
+
+735
+01:16:12,676 --> 01:16:16,587
+Él había hecho una cosa
+muy mala, pero...
+
+736
+01:16:17,677 --> 01:16:22,117
+Yo no debería haber hecho eso.
+Dije que fue en defensa propia.
+
+737
+01:16:22,118 --> 01:16:26,189
+Así que he mentido y he matado.
+
+738
+01:16:29,359 --> 01:16:32,239
+Lo hice porque...
+
+739
+01:16:32,240 --> 01:16:38,231
+porque estaba harto y podía...
+eliminar algo.
+
+740
+01:16:45,483 --> 01:16:48,243
+No sé...
+
+741
+01:16:48,244 --> 01:16:51,194
+Algo malo.
+
+742
+01:16:52,284 --> 01:16:54,835
+Alguna cosa...
+
+743
+01:16:58,006 --> 01:17:00,996
+<i>¿Eran serpientes?</i>
+
+744
+01:17:01,847 --> 01:17:04,197
+Sí.
+
+745
+01:17:04,887 --> 01:17:07,447
+Eran serpientes.
+
+746
+01:17:07,448 --> 01:17:10,207
+Pero sabía lo que estaba haciendo.
+
+747
+01:17:10,208 --> 01:17:13,248
+- Tú no lo sabías, ¿verdad?
+<i>- No.</i>
+
+748
+01:17:13,249 --> 01:17:17,369
+No. Fue un accidente.
+
+749
+01:17:17,370 --> 01:17:19,609
+<i>Sí.</i>
+
+750
+01:17:19,610 --> 01:17:22,050
+E Iben...
+
+751
+01:17:22,051 --> 01:17:28,971
+Tienes una hija que amas,
+y que quiere mucho ver a su madre.
+
+752
+01:17:28,972 --> 01:17:32,052
+<i>- Thilde.</i>
+- Sí.
+
+753
+01:17:32,053 --> 01:17:37,444
+Y le prometí que
+irías a casa con ella.
+
+754
+01:17:38,494 --> 01:17:43,686
+Ella te ama, Iben.
+Michael también.
+
+755
+01:17:44,936 --> 01:17:50,207
+Todavía tienes gente
+en tu vida que te ama.
+
+756
+01:17:56,018 --> 01:17:58,938
+<i>- ¿Asger?</i>
+- Sí.
+
+757
+01:17:58,939 --> 01:18:04,250
+<i>- Están llegando.</i>
+- Entonces ve con los oficiales.
+
+758
+01:18:07,741 --> 01:18:10,891
+<i>Eres una buena persona.</i>
+
+759
+01:18:13,222 --> 01:18:16,373
+¡Iben!
+
+760
+01:18:28,145 --> 01:18:31,376
+<i>Hola, has llamado...</i>
+
+761
+01:18:39,588 --> 01:18:42,698
+<i>Hola, has llamado...</i>
+
+762
+01:18:50,990 --> 01:18:56,301
+<i>Hola, has llamado a Iben Østergård.
+Ahora no puedo atender...</i>
+
+763
+01:19:40,521 --> 01:19:44,792
+<i>- Central de emergencias Nordsjælland.</i>
+- Es Asger.
+
+764
+01:19:45,762 --> 01:19:50,442
+Estaba hablando con Iben, pero...
+ella cortó.
+
+765
+01:19:50,443 --> 01:19:54,554
+<i>Sí, pero la tenemos.
+Ella bajó.</i>
+
+766
+01:19:58,485 --> 01:20:03,436
+- ¿La tienen?
+<i>- Sí, la tenemos.</i>
+
+767
+01:20:03,886 --> 01:20:06,837
+<i>Buen trabajo, Asger.</i>
+
+768
+01:21:59,000 --> 01:25:08,000
+Únete al grupo de facebook:
+"Computadoras y videojuegos antiguos (vintage)"
+
